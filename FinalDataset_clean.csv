@@ -1,577 +1,577 @@
-id,tipo,bairro,area_lote,area_interna,salas,suites,quartos,vagas,preco
-1,casa,Damha Residencial Uberaba III,360.0,284.74,1,3,3,4,2950000.0
-2,casa,Damha Residencial Uberaba III,362.91,281.81,1,3,3,4,2700000.0
-3,casa,Residencial Mário de Almeida Franco,1880.0,778.0,2,5,7,10,5400000.0
-4,casa,Damha Residencial Uberaba II,461.0,340.0,2,4,4,4,6350000.0
-5,casa,Condomínio Terra Nova,143.0,140.0,1,1,3,3,580000.0
-6,casa,Damha Residencial Uberaba III,409.75,263.7,1,3,4,4,2800000.0
-7,apartamento,Jardim do Lago,0.0,127.0,2,3,3,2,950000.0
-8,casa,Damha Residencial Uberaba I,404.0,240.0,1,3,3,4,2550000.0
-9,casa,Jardim São Bento,0.0,253.7,1,2,4,4,870000.0
-10,lote,Condominio Terras Alpha,321.43,0.0,0,0,0,0,320000.0
-11,terreno,Loteamento Residencial Damha Fit,250.0,0.0,0,0,0,0,210000.0
-12,terreno,Loteamento Residencial Damha Fit,250.0,0.0,0,0,0,0,210000.0
-13,casa,Residencial Mário de Almeida Franco,1880.0,299.0,3,4,4,5,2850000.0
-14,casa,Cyrela Landscape,407.0,200.0,2,3,3,4,1600000.0
-15,casa,Condomínio Parque do Rio Grande,309.0,248.0,2,3,3,2,890000.0
-16,casa,Cyrela Landscape II (Residencial Vitória),523.3,234.71,2,3,3,4,1770000.0
-17,terreno,Condomínio Ayat Club Residence II,250.0,0.0,0,0,0,0,250000.0
-18,terreno,Cyrela Landscape,396.0,0.0,0,0,0,0,340000.0
-19,cobertura,Santa Maria,0.0,172.0,1,2,4,2,980000.0
-20,casa,Condomínio Residencial Baronesa,720.0,300.0,3,3,3,4,3200000.0
-21,casa,Condomínio Residencial Baronesa,360.0,330.0,3,4,5,6,2950000.0
-22,casa,Damha Residencial Uberaba II,394.6,399.0,2,4,5,2,4000000.0
-23,lote,Condominio Terras Alpha,321.43,0.0,0,0,0,0,344000.0
-24,terreno,Loteamento Residencial Damha Fit,250.0,0.0,0,0,0,0,225000.0
-25,apartamento,Santa Maria,0.0,115.0,1,3,3,2,920000.0
-26,casa,Portal Beija Flor,200.0,150.0,1,1,3,2,740000.0
-27,casa,Santa Maria,445.6,335.0,4,2,4,3,1800000.0
-28,apartamento,Vila Maria Helena,0.0,70.0,1,2,2,2,540000.0
-29,apartamento,Irmãos Soares,0.0,148.47,3,3,3,4,750000.0
-30,apartamento,Parque do Mirante,0.0,52.0,1,0,2,1,260000.0
-31,casa,Estância dos Ipês,300.0,180.0,1,3,3,4,1700000.0
-32,apartamento,Santa Maria,0.0,112.0,1,1,3,2,710000.0
-33,terreno,Damha Residencial Uberaba III,384.97,0.0,0,0,0,0,650000.0
-34,sobrado,São Sebastião,357.0,165.85,1,1,3,2,460000.0
-35,apartamento,São Sebastião,0.0,69.0,1,2,2,2,615000.0
-36,casa,Jardim São Bento,461.5,278.89,1,3,3,3,1150000.0
-37,casa,Estância dos Ipês,300.0,179.67,1,3,3,4,1590000.0
-38,casa,Residencial Mário de Almeida Franco,545.75,335.0,1,3,4,6,2650000.0
-39,casa,Jockey Park II,450.0,271.28,2,3,3,2,2200000.0
-40,apartamento,Jardim do Lago,0.0,200.0,2,3,3,3,1600000.0
-41,casa,Condomínio Ayat Club Residence,220.0,146.0,2,1,3,2,1250000.0
-42,apartamento,Estados Unidos,0.0,76.0,1,1,2,2,490000.0
-43,casa,Jardim do Lago,360.0,198.72,1,1,3,4,1300000.0
-44,casa,Condomínio Ayat Club Residence,220.0,151.0,2,3,3,2,1050000.0
-45,apartamento,Santa Maria,0.0,122.53,2,1,3,1,350000.0
-46,sobrado,Estados Unidos,165.0,187.0,2,1,4,2,550000.0
-47,apartamento,Estados Unidos,0.0,258.0,3,2,4,2,1390000.0
-48,casa,Recanto das Torres,2481.82,485.0,3,4,4,4,4200000.0
-49,casa,Olinda,360.0,248.3,1,3,3,3,700000.0
-50,casa,Fabrício,400.0,238.5,1,1,3,3,1050000.0
-51,casa,Damha Residencial Uberaba I,1200.0,668.0,4,4,4,8,6000000.0
-52,apartamento,Santa Maria,0.0,112.0,1,1,3,2,750000.0
-53,lote,Condominio Terras Alpha,348.0,0.0,0,0,0,0,360000.0
-54,apartamento,Jardim do Lago,0.0,127.0,2,3,3,2,815000.0
-55,apartamento,Santa Maria,0.0,228.32,2,1,3,3,1300000.0
-56,terreno,Residencial Mário de Almeida Franco,1880.0,0.0,0,0,0,0,700000.0
-57,apartamento,Jardim Alexandre Campos,0.0,302.0,3,4,4,3,1600000.0
-58,terreno,Loteamento Residencial Damha Fit,250.0,0.0,0,0,0,0,200000.0
-59,terreno,Loteamento Residencial Damha Fit,250.0,0.0,0,0,0,0,200000.0
-60,apartamento,São Sebastião,0.0,170.0,0,0,0,2,700000.0
-61,casa,Cyrela Landscape II (Residencial Vitória),405.0,214.0,2,3,3,4,2100000.0
-62,casa,Condomínio Residencial Baronesa,720.0,315.0,2,3,3,4,2200000.0
-63,lote,Estância dos Ipês,350.0,0.0,0,0,0,0,400000.0
-64,terreno,Recreio dos Bandeirantes,444.0,0.0,0,0,0,0,500000.0
-65,lote,Residencial Jardins,250.0,0.0,0,0,0,0,240000.0
-66,terreno,Damha Residencial Uberaba III,393.6,0.0,0,0,0,0,450000.0
-67,dois,Damha Residencial Uberaba III,787.2,0.0,0,0,0,0,840000.0
-68,quatro,Damha Residencial Uberaba III,1520.0,0.0,0,0,0,0,1680000.0
-69,lote,Estância dos Ipês,345.0,0.0,0,0,0,0,420000.0
-70,lote,Estância dos Ipês,300.0,0.0,0,0,0,0,360000.0
-71,lote,Estância dos Ipês,375.0,0.0,0,0,0,0,450000.0
-72,apartamento,Estados Unidos,0.0,214.0,3,1,3,2,900000.0
-73,lote,Loteamento Residencial Damha Fit,250.0,0.0,0,0,0,0,190000.0
-74,apartamento,São Benedito,0.0,67.0,1,1,3,2,300000.0
-75,lote,Cyrela Landscape,400.11,0.0,0,0,0,0,320000.0
-76,lote,Residencial Mário de Almeida Franco,2000.0,0.0,0,0,0,0,600000.0
-77,casa,Cond. Res. Lago do Jockey,500.0,380.0,1,4,4,4,2000000.0
-78,casa,Damha Residencial Uberaba III,395.42,238.0,1,3,3,4,2780000.0
-79,alto,Cyrela Landscape,415.46,178.57,1,3,3,4,1600000.0
-80,casa,Jardim São Bento,0.0,188.0,1,1,3,2,799000.0
-81,terreno,Cyrela Landscape II (Residencial Vitória),452.0,0.0,0,0,0,0,320000.0
-82,terreno,Parque das Laranjeiras,250.0,0.0,0,0,0,0,180000.0
-83,terreno,Jardim Espanha,1600.0,1000.0,0,0,0,0,600000.0
-84,casa,Parque das Laranjeiras,251.88,240.0,1,2,3,4,1100000.0
-85,terreno,Estados Unidos,260.0,0.0,0,0,0,0,180000.0
-86,terreno,Recreio dos Bandeirantes,390.0,0.0,0,0,0,0,480000.0
-87,terreno,Oneida Mendes,200.0,0.0,0,0,0,0,140000.0
-88,terreno,Flamboyant Residencial Park,1897.0,0.0,0,0,0,0,1100000.0
-89,casa,Quinta Boa Esperança,260.0,151.55,1,1,3,3,480000.0
-90,terreno,Cyrela Landscape II (Residencial Vitória),405.0,0.0,0,0,0,0,295000.0
-91,casa,Estância dos Ipês,360.0,350.0,2,4,4,4,2398000.0
-92,dois,Damha Residencial Uberaba III,755.0,0.0,0,0,0,0,920000.0
-93,terreno,Damha Residencial Uberaba III,387.5,0.0,0,0,0,0,500000.0
-94,apartamento,São Benedito,0.0,98.0,1,1,3,2,380000.0
-95,casa,Parque das Américas,420.0,237.0,2,1,3,0,700000.0
-96,terreno,Mercês,630.0,0.0,0,0,0,0,350000.0
-97,terreno,Vila Olímpica,486.0,0.0,0,0,0,0,470000.0
-98,excelente,Condomínio Ayat Club Residence II,250.0,0.0,0,0,0,0,270000.0
-99,apartamento,São Sebastião,0.0,138.0,1,3,3,2,1380000.0
-100,casa,Vila Militar,200.0,174.24,1,1,3,2,650000.0
-101,apartamento,São Benedito,0.0,145.0,1,1,3,2,533000.0
-102,apartamento,São Benedito,0.0,145.0,1,1,2,2,650000.0
-103,apartamento,São Benedito,0.0,145.0,1,1,3,2,553000.0
-104,apartamento,São Benedito,0.0,145.0,1,1,3,2,553000.0
-105,loteamento,Loteamento Residencial Damha Fit,264.0,0.0,0,0,0,0,175000.0
-106,loteamento,Loteamento Residencial Damha Fit,250.0,0.0,0,0,0,0,190000.0
-107,casa,Jockey Park,2550.0,428.0,3,2,4,4,3500000.0
-108,excelente,Condomínio Ayat Club Residence II,250.0,0.0,0,0,0,0,270000.0
-109,lote,Condominio Terras Alpha,300.0,0.0,0,0,0,0,320000.0
-110,casa,Fabrício,300.0,183.0,1,1,3,2,685000.0
-111,apartamento,Santa Maria,0.0,107.0,1,1,3,2,750000.0
-112,casa,Residencial Presidente Tancredo Neves,250.0,220.0,1,1,3,3,670000.0
-114,casa,Cyrela Landscape,507.0,254.0,1,3,3,4,2200000.0
-115,apartamento,Mercês,0.0,287.0,3,3,4,3,1500000.0
-116,casa,Santa Maria,467.0,326.0,1,3,3,5,1580000.0
-117,apartamento,Jardim Santa Inez,0.0,150.0,1,1,3,2,550000.0
-118,terreno,Cyrela Landscape II (Residencial Vitória),405.0,0.0,0,0,0,0,350000.0
-119,terreno,Residencial Jardins,388.0,0.0,0,0,0,0,390000.0
-120,terreno,Residencial Mário de Almeida Franco,2000.0,0.0,0,0,0,0,750000.0
-121,casa,Boa Vista,269.5,177.0,0,0,0,0,600000.0
-122,apartamento,Maria Helena - Vila,0.0,162.88,2,1,3,2,520000.0
-123,terreno,Fabrício,321.8,0.0,0,0,0,0,150000.0
-124,terreno,Fabrício,355.79,0.0,0,0,0,0,150000.0
-125,apartameto,Olinda,0.0,85.4,1,0,2,1,360000.0
-126,lote,Damha Residencial Uberaba III,408.47,0.0,0,0,0,0,550000.0
-127,casa,Condomínio Ayat Club Residence,220.0,188.0,2,3,3,2,1100000.0
-128,casa,Olinda,325.0,151.0,1,3,3,3,850000.0
-129,terreno,Loteamento Residencial Damha Fit,250.0,0.0,0,0,0,0,210000.0
-130,casa,Vila Militar,200.0,255.0,2,1,3,0,750000.0
-131,casa,Nossa Senhora da Abadia,135.22,173.0,1,1,2,3,530000.0
-132,casa,Vila de Barcelona,360.0,277.08,1,1,3,4,1400000.0
-133,terreno,Fabrício,322.8,0.0,0,0,0,0,150000.0
-134,casa,Boa Vista,0.0,150.0,3,1,2,1,330000.0
-135,apartamento,Mercês,0.0,90.0,1,0,2,2,350000.0
-136,casa,Nossa Senhora da Abadia,0.0,180.0,2,0,2,0,310000.0
-137,apartamento,Vila Olímpica,0.0,169.0,2,1,3,2,630000.0
-138,apartamento,Santa Marta,0.0,130.0,1,2,2,2,1000000.0
-139,apartamento,Fabrício,0.0,115.0,1,3,3,2,720000.0
-140,apartamento,Santa Maria,0.0,99.0,1,1,3,2,640000.0
-141,casa,Jardim Nenê Gomes,250.0,173.56,1,1,3,3,650000.0
-142,casa,Condomínio Ayat Club Residence,231.5,186.25,1,4,4,2,1200000.0
-143,apartamento,Estados Unidos,0.0,79.07,1,0,2,1,300000.0
-144,terreno,Mercês,614.9,0.0,0,0,0,0,350000.0
-145,casa,Jardim São Bento,320.0,248.68,2,2,4,3,850000.0
-146,lote,Residencial Mário de Almeida Franco,2000.0,2000.0,0,0,0,0,680000.0
-147,casa,Estância dos Ipês,394.08,214.42,1,3,3,4,2150000.0
-148,casa,Jardim do Lago,0.0,100.0,1,3,0,4,1500000.0
-149,apartamento,Irmãos Soares,0.0,138.0,1,3,3,2,1050000.0
-150,casa,Parque das Laranjeiras,0.0,90.0,1,0,2,2,310000.0
-151,casa,Damha Residencial Uberaba I,470.0,300.0,1,4,4,4,3500000.0
-152,casa,Jardim do Lago,507.0,300.0,1,4,4,6,2600000.0
-153,apartamento,Vila Olímpica,0.0,189.6,1,1,3,2,600000.0
-154,casa,Damha Residencial Uberaba I,399.0,210.0,1,1,4,6,1600000.0
-155,lote,Loteamento Residencial Damha Fit,350.0,0.0,0,0,0,0,290000.0
-156,casa,Parque das Laranjeiras II,255.0,165.0,1,1,2,2,430000.0
-157,casa,Cyrela Landscape,448.13,223.05,2,4,4,4,2380000.0
-158,apartamento,Jardim Esplanada,0.0,52.0,1,0,2,1,270000.0
-159,casa,Parque do Mirante,675.0,420.0,2,2,4,5,1300000.0
-160,casa,Nossa Senhora da Abadia,940.0,540.0,3,2,4,2,1350000.0
-161,apartamento,São Sebastião,0.0,310.0,4,4,4,3,1300000.0
-162,terreno,Vila Celeste,431.0,0.0,0,0,0,0,330000.0
-163,casa,Flamboyant III Resid. Park,300.0,247.87,3,4,4,4,1950000.0
-164,lote,Recreio dos Bandeirantes,250.0,0.0,0,0,0,0,240000.0
-165,lote,Cyrela Landscape,428.91,0.0,0,0,0,0,375000.0
-166,terreno,Recreio dos Bandeirantes,392.45,0.0,0,0,0,0,550000.0
-167,terreno,Recreio dos Bandeirantes,378.0,0.0,0,0,0,0,500000.0
-168,terreno,Condomínio Ayat Club Residence II,250.0,0.0,0,0,0,0,270000.0
-169,casa,Condomínio Residencial Baronesa,753.84,540.03,3,4,4,4,5000000.0
-170,casa,Condomínio Buritis,0.0,430.0,3,3,4,2,2500000.0
-171,terreno,Vila Celeste,300.0,0.0,0,0,0,0,250000.0
-172,casa,Cyrela Landscape,421.61,210.77,1,3,3,4,1850000.0
-173,terreno,Condomínio Ayat Club Residence II,250.0,0.0,0,0,0,0,250000.0
-174,lote,Residencial Jardins,447.41,0.0,0,0,0,0,430000.0
-175,terreno,Cyrela Landscape,449.5,0.0,0,0,0,0,440000.0
-176,lote,Cyrela Landscape,464.83,0.0,0,0,0,0,380000.0
-177,terreno,Flamboyant Residencial Park,396.0,0.0,0,0,0,0,780000.0
-178,casa,Jardim Induberaba,164.0,234.0,1,2,3,4,470000.0
-179,casa,Jardim São Bento,336.0,218.0,2,1,4,4,530000.0
-180,apartamento,Estados Unidos,0.0,150.0,3,1,3,2,490000.0
-181,apartamento,Irmãos Soares,0.0,125.39,1,2,3,2,550000.0
-182,casa,Olinda,975.0,538.0,2,2,4,5,1850000.0
-183,casa,Damha Residencial Uberaba I,390.0,219.75,3,3,3,4,1850000.0
-184,casa,Conjunto Cássio Rezende,0.0,187.35,0,0,0,3,350000.0
-185,casa,Cidade Jardim,300.0,310.37,3,3,5,4,750000.0
-186,apartamento,Centro,0.0,178.0,1,3,3,3,1500000.0
-187,casa,Recreio dos Bandeirantes,125.0,100.0,1,2,3,2,350000.0
-188,lote,Damha Residencial Uberaba III,384.37,0.0,0,0,0,0,475000.0
-189,casa,Santa Maria,336.0,200.0,2,2,4,2,710000.0
-190,casa,Jardim do Lago,360.0,215.0,1,2,3,4,1300000.0
-191,casa,Parque das Laranjeiras II,250.0,110.0,1,1,2,4,450000.0
-192,apartamento,Santa Maria,0.0,78.0,1,1,3,2,430000.0
-193,apartamento,Estados Unidos,0.0,55.13,1,0,2,1,250000.0
-194,casa,Recreio dos Bandeirantes,125.0,70.0,1,0,3,2,300000.0
-195,apartamento,Santa Maria,0.0,90.0,1,1,3,2,480000.0
-196,casa,Damha Residencial Uberaba I,414.97,218.0,1,3,4,4,2700000.0
-197,casa,Flamboyant II Resid. Park,396.0,191.0,1,2,3,4,1850000.0
-198,apartamento,São Sebastião,0.0,69.0,1,2,2,2,580000.0
-199,casa,Jardim Nenê Gomes,250.0,91.29,1,1,2,4,360000.0
-200,apartamento,Fabrício,0.0,54.0,1,2,2,1,265000.0
-201,casa,Boa Vista,534.0,271.05,3,4,5,4,1850000.0
-202,casa,Mercês,197.0,92.0,1,1,3,2,460000.0
-203,casa,Condomínio Ayat Club Residence,231.83,160.0,1,4,5,2,980000.0
-204,casa,Damha Residencial Uberaba I,421.0,210.0,1,3,3,4,3200000.0
-205,casa,Mercês,460.6,297.23,3,4,4,4,950000.0
-206,terreno,Damha Residencial Uberaba III,390.0,0.0,0,0,0,0,460000.0
-207,lote,Cyrela Landscape,409.0,0.0,0,0,0,0,390000.0
-208,casa,Damha Residencial Uberaba II,438.75,260.31,1,3,3,4,1950000.0
-209,casa,Cyrela Landscape,528.41,554.57,2,6,6,4,2750000.0
-210,casa,Mercês,516.0,419.58,2,2,5,4,1800000.0
-211,casa,Estância dos Ipês,328.0,200.0,1,1,3,4,1600000.0
-212,lote,Residencial Jardins,250.0,0.0,0,0,0,0,290000.0
-213,terreno,Parque das Laranjeiras,250.0,0.0,0,0,0,0,135000.0
-214,apartamento,Santa Maria,0.0,60.0,1,1,2,1,300000.0
-215,casa,Boa Vista,462.5,342.0,2,1,3,2,1100000.0
-216,casa,Cyrela Landscape,410.0,330.0,2,4,4,4,2600000.0
-217,casa,Cyrela Landscape,406.0,212.0,1,3,3,4,1950000.0
-218,terreno,Parque do Mirante,892.8,0.0,0,0,0,0,600000.0
-219,casa,Damha Residencial Uberaba III,384.37,327.0,2,5,5,4,3490000.0
-220,apartamento,Nossa Senhora da Abadia,0.0,55.0,0,0,0,0,330000.0
-221,casa,Mercês,0.0,195.07,2,1,3,2,750000.0
-222,casa,Portal Beija Flor,200.0,136.0,1,1,3,2,600000.0
-223,casa,Condomínio Ayat Club Residence,231.5,186.25,0,3,3,2,1130000.0
-224,apartamento,Santa Maria,0.0,74.0,1,2,2,1,490000.0
-225,casa,São Sebastião,0.0,500.0,3,2,5,4,3000000.0
-226,apartamento,São Sebastião,0.0,69.0,2,2,2,2,470000.0
-227,casa,Damha Residencial Uberaba III,387.54,215.52,1,4,4,4,2450000.0
-228,terreno,Condomínio Ayat Club Residence II,250.0,0.0,0,0,0,0,235000.0
-229,apartamento,Olinda,0.0,59.0,1,0,2,1,330000.0
-230,apartamento,São Benedito,0.0,158.0,1,1,3,2,700000.0
-231,terreno,Cyrela Landscape II (Residencial Vitória),405.0,0.0,0,0,0,0,240000.0
-232,casa,Jardim do Lago,360.0,344.0,2,3,4,4,1350000.0
-233,lote,Residencial Jardins,250.0,0.0,0,0,0,0,305000.0
-234,terreno,Brahman I,250.0,0.0,0,0,0,0,210000.0
-235,terreno,Brahman I,250.0,0.0,0,0,0,0,210000.0
-236,terreno,Brahman I,250.0,0.0,0,0,0,0,210000.0
-237,terreno,Fabrício,420.0,0.0,0,0,0,0,700000.0
-238,terreno,CONDOMÍNIO CHÁCARA DAS PALMEIRAS,1800.0,0.0,0,0,0,0,790000.0
-239,casa,Vale do Sol,0.0,420.0,3,2,2,10,3000000.0
-240,lote,Residencial Jardins,250.0,0.0,0,0,0,0,262500.0
-241,lote,Residencial Jardins,259.1,0.0,0,0,0,0,271950.0
-242,terreno,Jardim São Bento,336.0,0.0,0,0,0,0,225000.0
-243,apartamento,Santa Maria,0.0,56.0,1,1,2,1,570000.0
-244,casa,Estância dos Ipês,300.0,180.0,1,3,3,2,1600000.0
-245,casa,Parque das Américas,360.0,178.42,1,1,3,2,550000.0
-246,casa,Jardim do Lago,360.0,175.0,2,1,3,2,830000.0
-247,apartamento,Olinda,0.0,93.0,1,1,3,1,350000.0
-248,casa,Residencial Palmeiras,315.82,280.0,1,3,4,3,900000.0
-249,casa,Condomínio Ayat Club Residence II,250.0,180.0,1,3,3,2,1500000.0
-250,casa,Estância dos Ipês,300.0,180.0,2,3,3,2,1700000.0
-251,venda,Damha Residencial Uberaba III,369.96,215.0,1,3,4,4,2300000.0
-252,casa,Jardim Nenê Gomes,250.0,180.0,1,1,3,2,690000.0
-253,terreno,Residencial Mário de Almeida Franco,544.49,0.0,0,0,0,0,410000.0
-254,apartamento,Santa Maria,0.0,54.6,1,1,2,1,330000.0
-255,apartamento,São Benedito,0.0,129.0,0,0,0,0,995000.0
-256,casa,Jardim São Bento,0.0,198.78,2,2,4,2,680000.0
-257,lote,Damha Residencial Uberaba III,390.7,0.0,0,0,0,0,400000.0
-258,casa,Jardim Maria Alice,272.0,189.9,1,1,2,2,500000.0
-259,casa,Residencial Estados Unidos,250.0,183.0,1,3,3,2,650000.0
-260,casa,Estados Unidos,0.0,281.82,0,0,0,0,660000.0
-261,casa,Cyrela Landscape,482.5,298.0,2,3,4,4,2400000.0
-262,casa,Recreio dos Bandeirantes,126.5,74.63,1,0,3,1,260000.0
-263,terreno,Condominio Terras Alpha,300.0,0.0,0,0,0,0,300000.0
-264,casa,Conjunto Cássio Rezende,0.0,149.47,0,2,4,2,495000.0
-265,casa,Jardim do Lago,0.0,193.0,1,1,3,3,1600000.0
-266,apartamento,Estados Unidos,0.0,59.77,1,1,2,1,330000.0
-267,lote,Condominio Terras Alpha,300.0,0.0,0,0,0,0,292500.0
-268,apartamento,Vila Maria Helena,0.0,100.0,1,1,3,0,380000.0
-269,apartamento,São Sebastião,0.0,69.0,1,2,2,2,500000.0
-270,apartamento,Nossa Senhora da Abadia,0.0,110.0,1,1,3,2,480000.0
-271,casa,Jardim Espírito Santo,250.0,158.0,1,3,3,3,750000.0
-272,casa,Condomínio Terra Nova,0.0,126.0,1,1,3,2,540000.0
-273,casa,Residencial Mário de Almeida Franco,1121.47,630.0,4,5,5,10,2300000.0
-274,terreno,Parque das Laranjeiras,250.0,0.0,0,0,0,0,120000.0
-275,casa,Olinda,325.0,120.0,2,2,3,4,900000.0
-276,terreno,Cyrela Landscape,494.96,0.0,0,0,0,0,338000.0
-277,casa,Grande Horizonte,324.0,171.28,2,1,3,4,550000.0
-278,terreno,Brahman I,250.0,0.0,0,0,0,0,200000.0
-279,terreno,Brahman I,250.0,0.0,0,0,0,0,200000.0
-280,terreno,Parque das Laranjeiras,251.88,0.0,0,0,0,0,200000.0
-281,terreno,Parque das Laranjeiras,255.0,0.0,0,0,0,0,170000.0
-282,terreno,Cyrela Landscape,438.3,0.0,0,0,0,0,440000.0
-283,terreno,Cyrela Landscape,405.0,0.0,0,0,0,0,330000.0
-284,terreno,Cyrela Landscape II (Residencial Vitória),415.46,0.0,0,0,0,0,290000.0
-285,terreno,Damha Residencial Uberaba III,442.56,0.0,0,0,0,0,590000.0
-286,lote,Loteamento Residencial Damha Fit,289.0,0.0,0,0,0,0,200000.0
-287,terreno,Brahman I,250.0,0.0,0,0,0,0,190000.0
-288,apartamento,Nossa Senhora da Abadia,0.0,37.0,1,0,1,0,220000.0
-289,terreno,Residencial Mário de Almeida Franco,2000.0,0.0,0,0,0,0,650000.0
-290,terreno,Residencial Mário de Almeida Franco,600.0,0.0,0,0,0,0,450000.0
-291,terreno,Residencial Mário de Almeida Franco,2000.0,0.0,0,0,0,0,650000.0
-292,apartamento,Mercês,0.01,212.0,2,4,4,2,680000.0
-293,casa,Parque do Mirante,675.0,420.0,2,2,4,5,650000.0
-294,casa,Recreio dos Bandeirantes,0.0,140.0,1,0,3,0,290000.0
-295,casa,Parque das Laranjeiras,275.0,140.0,1,1,3,4,650000.0
-296,imóvel,Conjunto Morada do Sol,0.0,253.0,1,1,2,2,550000.0
-297,lote,Loteamento Residencial Damha Fit,250.0,0.0,0,0,0,0,190000.0
-298,casa,Cyrela Landscape,525.0,240.0,3,2,3,0,1750000.0
-299,casa,São Sebastião,403.0,312.0,3,2,4,3,1000000.0
-300,terreno,Parque das Laranjeiras,250.0,0.0,0,0,0,0,140000.0
-301,apartamento,Santa Maria,0.0,112.76,1,3,3,2,750000.0
-302,apartamento,Parque das Acácias,0.0,56.0,1,1,2,1,275000.0
-303,apartamento,Santa Maria,0.0,99.0,1,1,3,2,640000.0
-304,terreno,Damha Residencial Uberaba III,394.45,0.0,0,0,0,0,550000.0
-305,apartamento,Parque do Mirante,0.0,48.0,1,0,2,1,240000.0
-306,casa,Jardim Espírito Santo,250.0,160.0,1,2,3,3,780000.0
-307,apartamento,Conjunto Manoel Mendes,0.0,58.49,0,0,2,1,190000.0
-308,apartamento,Nossa Senhora da Abadia,0.0,53.8,0,0,0,0,280000.0
-309,casa,Damha Residencial Uberaba III,394.75,237.0,2,3,3,4,2300000.0
-310,casa,Damha Residencial Uberaba I,414.64,221.01,1,2,4,4,1800000.0
-311,apartamento,Olinda,0.0,87.45,0,0,0,0,415000.0
-312,apartamento,Estados Unidos,0.0,102.09,1,1,3,2,820000.0
-313,casa,Damha Residencial Uberaba III,387.0,210.0,1,3,3,4,2200000.0
-314,casa,Damha Residencial Uberaba III,384.97,214.04,1,4,4,4,2530000.0
-315,lote,Damha Residencial Uberaba III,384.37,0.0,0,0,0,0,450000.0
-316,lote,Damha Residencial Uberaba III,409.75,0.0,0,0,0,0,400000.0
-317,terreno,Residencial Mário de Almeida Franco,2231.0,0.0,0,0,0,0,850000.0
-318,casa,Condomínio Ayat Club Residence,250.0,210.0,1,4,4,2,1480000.0
-319,casa,Parque das Laranjeiras,260.0,120.0,1,1,3,2,550000.0
-320,terreno,Residencial Jardins,365.7,0.0,0,0,0,0,385000.0
-321,apartamento,São Benedito,0.0,103.43,1,1,3,2,440000.0
-322,casa,Estância dos Ipês,376.66,225.55,3,3,3,2,2200000.0
-323,terreno,Vila Maria Helena,237.0,0.0,0,0,0,0,360000.0
-324,terreno,Damha Residencial Uberaba III,387.5,0.0,0,0,0,0,430000.0
-325,apartamento,Mercês,0.0,126.34,2,1,3,2,550000.0
-326,terreno,Conjunto Pontal,275.0,0.0,0,0,0,0,170000.0
-327,casa,Parque das Laranjeiras,250.0,95.25,1,1,3,4,680000.0
-328,casa,Residencial Mário de Almeida Franco,0.0,250.0,2,3,3,4,2000000.0
-329,lote,Cyrela Landscape,428.14,428.14,0,0,0,0,430000.0
-330,terreno,Jockey Park,1705.0,0.0,0,0,0,0,750000.0
-331,apartamento,Olinda,0.0,77.0,2,1,3,1,280000.0
-332,lote,Cyrela Landscape,428.14,0.0,0,0,0,0,380000.0
-333,casa,São José,0.0,203.34,1,2,3,2,1100000.0
-334,casa,Leblon,300.0,180.0,1,1,3,2,570000.0
-335,apartamento,Mercês,0.0,198.0,4,1,3,2,670000.0
-336,casa,Olinda,312.0,322.25,3,1,3,4,1300000.0
-337,casa,Jardim São Bento,336.0,292.0,1,4,4,4,1350000.0
-338,terreno,Estância dos Ipês,300.0,0.0,0,0,0,0,360000.0
-339,terreno,Cyrela Landscape II (Residencial Vitória),442.0,0.0,0,0,0,0,290000.0
-340,apartamento,Conjunto Guanabara,0.0,117.0,1,1,2,2,730000.0
-341,lote,Loteamento Residencial Damha Fit,289.0,0.0,0,0,0,0,225000.0
-342,terreno,Loteamento Residencial Damha Fit,250.0,0.0,0,0,0,0,210000.0
-343,casa,Parque das Laranjeiras,0.0,150.0,0,2,2,6,750000.0
-344,casa,Pacaembu,200.0,140.0,1,2,3,2,430000.0
-345,casa,Residencial Presidente Tancredo Neves,248.0,54.0,2,0,2,4,315000.0
-346,casa,Damha Residencial Uberaba II,395.85,319.0,3,4,4,4,3350000.0
-347,casa,Olinda,624.0,428.0,3,3,3,4,1300000.0
-348,casa,Residencial Filinha Mendes,200.0,120.0,1,1,3,3,455000.0
-349,lote,Estância dos Ipês,388.77,0.0,0,0,0,0,505500.0
-350,lote,Estância dos Ipês,300.0,0.0,0,0,0,0,330000.0
-351,terreno,Condomínio Ayat Club Residence II,250.0,0.0,0,0,0,0,250000.0
-352,casa,Vila Frei Eugênio,300.0,205.0,2,1,3,2,950000.0
-353,apartamento,Olinda,0.0,85.0,1,1,3,1,260000.0
-354,lote,Oneida Mendes,570.0,0.0,0,0,0,0,840000.0
-355,casa,Estância dos Ipês,360.0,215.8,1,3,3,4,2000000.0
-356,apartamento,Jardim do Lago,0.0,116.0,1,3,3,2,950000.0
-357,casa,Jardim Espanha,200.0,72.0,1,0,2,2,270000.0
-358,apartamento,Parque do Mirante,0.0,100.64,1,1,3,2,990000.0
-359,casa,Jardim Espanha,200.0,121.01,1,0,3,3,320000.0
-360,apartamento,Parque do Mirante,0.0,100.64,1,1,3,2,980000.0
-361,venda:,Parque do Mirante,0.0,100.64,1,3,3,2,1010000.0
-362,apartamento,Parque do Mirante,0.0,100.64,1,2,2,2,1030000.0
-363,apartamento,Parque do Mirante,0.0,100.64,1,1,3,2,940000.0
-364,apartamento,Parque do Mirante,0.0,50.0,1,0,2,1,240000.0
-365,lote,Loteamento Residencial Damha Fit,250.0,0.0,0,0,0,0,220000.0
-366,casa,Damha Residencial Uberaba II,475.54,258.65,1,4,4,4,2250000.0
-367,lote,Loteamento Residencial Damha Fit,250.0,0.0,0,0,0,0,210000.0
-368,venda:,Jardim do Lago,0.0,102.0,1,3,3,0,850000.0
-369,terreno,Vila Celeste,1092.28,0.0,0,0,0,0,650000.0
-370,terreno,Condomínio Ayat Club Residence II,250.0,0.0,0,0,0,0,215000.0
-371,apartamento,Parque do Mirante,0.0,100.64,1,1,3,2,980000.0
-372,casa,Parque das Laranjeiras II,250.0,123.99,2,1,3,6,645000.0
-373,prédio,Mercês,460.45,436.97,3,1,3,2,980000.0
-374,apartamento,Parque do Mirante,1797.47,97.99,1,1,3,2,590000.0
-375,casa,Olinda,312.0,218.4,2,1,4,5,550000.0
-376,apartamento,Olinda,0.0,77.0,2,1,2,1,199000.0
-377,apartamento,Santa Maria,960.0,80.0,1,1,2,2,330000.0
-378,casa,Nossa Senhora da Abadia,250.0,167.0,1,2,3,4,570000.0
-379,lote,Cyrela Landscape,422.0,0.0,0,0,0,0,350000.0
-380,casa,Cyrela Landscape,396.75,278.72,1,1,3,4,2250000.0
-381,casa,Nossa Senhora da Abadia,531.3,403.01,3,1,4,3,950000.0
-382,casa,Mercês,0.0,110.0,1,1,3,2,680000.0
-383,casa,Fabrício,264.0,160.05,1,2,3,2,820000.0
-384,apartamento,Mercês,0.0,156.0,2,3,3,2,1200000.0
-385,casa,Estância dos Ipês,491.0,258.0,1,3,3,4,2350000.0
-386,terreno,Parque das Laranjeiras,250.0,0.0,0,0,0,0,140000.0
-387,sobrado,Conjunto Morada do Sol,432.0,221.0,3,2,3,2,700000.0
-388,terrenos,Espanha,998.43,0.0,0,0,0,0,750000.0
-389,lote,Loteamento Lótus,370.0,0.0,0,0,0,0,400000.0
-390,lote,Loteamento Residencial Damha Fit,250.0,0.0,0,0,0,0,180000.0
-391,lote,Loteamento Residencial Damha Fit,250.0,0.0,0,0,0,0,210000.0
-392,lote,Cyrela Landscape,396.75,0.0,0,0,0,0,380000.0
-393,apartamento,Fabrício,0.0,78.0,1,1,3,1,370000.0
-394,terreno,Cyrela Landscape II (Residencial Vitória),434.0,0.0,0,0,0,0,325380.0
-395,terreno,Cyrela Landscape II (Residencial Vitória),750.0,0.0,0,0,0,0,562000.0
-396,casa,Mercês,538.0,300.0,2,1,4,4,850000.0
-397,apartamento,Parque do Mirante,0.0,100.64,2,1,3,2,930000.0
-398,casa,Parque do Mirante,675.0,525.0,2,2,4,8,2500000.0
-399,casa,Estância dos Ipês,600.0,495.0,2,4,4,4,3900000.0
-400,sobrado,Nossa Senhora da Abadia,270.0,260.0,3,3,5,5,700000.0
-401,apartamento,Mercês,0.0,200.0,2,1,3,2,800000.0
-402,casa,Mercês,900.0,700.0,3,3,4,6,3950000.0
-403,casa,Residencial Mário de Almeida Franco,486.54,280.0,2,4,4,4,2200000.0
-404,apartamento,Santa Maria,0.0,263.21,2,3,3,2,1350000.0
-405,casa,Estados Unidos,1093.5,528.78,3,4,5,2,
-406,apartamento,Fabrício,0.0,78.0,1,1,3,1,320000.0
-407,casa,Vila Olímpica,300.0,182.0,2,1,3,3,850000.0
-408,casa,Residencial Mário de Almeida Franco,682.0,250.0,1,3,3,5,1700000.0
-409,apartamento,Quinta Boa Esperança,0.0,72.0,1,1,2,2,410000.0
-410,casa,Nossa Senhora da Abadia,460.0,190.0,2,2,4,2,1000000.0
-411,casa,Quinta Boa Esperança,320.0,312.0,3,2,3,4,1100000.0
-412,terreno,Cidade Jardim,280.0,0.0,0,0,0,0,225000.0
-413,lote,Recreio dos Bandeirantes,888.0,0.0,0,0,0,0,2100000.0
-414,lote,Recreio dos Bandeirantes,458.0,0.0,0,0,0,0,900000.0
-415,casa,Olinda,324.0,250.0,2,3,3,2,850000.0
-416,lote,Cyrela Landscape,482.2,0.0,0,0,0,0,450000.0
-417,casa,Nossa Senhora da Abadia,400.0,300.69,2,2,4,4,850000.0
-418,casa,Jardim do Lago,360.0,277.0,1,4,4,4,1500000.0
-419,casa,Boa Vista,400.0,260.0,2,2,3,3,1000000.0
-420,casa,Parque das Laranjeiras,276.93,150.0,1,1,3,3,640000.0
-421,apartamento,Irmãos Soares,0.0,112.0,2,1,3,1,290000.0
-422,terreno,Damha Residencial Uberaba III,420.32,0.0,0,0,0,0,620000.0
-423,terreno,Loteamento Residencial Damha Fit,250.0,0.0,0,0,0,1,200000.0
-424,apartamento,Mercês,0.0,156.0,2,3,3,2,1200000.0
-425,apartamento,Estados Unidos,0.0,100.0,1,1,3,2,480000.0
-426,casa,Parque das Laranjeiras,255.0,252.0,1,3,3,2,650000.0
-427,terreno,Parque das Laranjeiras,250.0,0.0,0,0,0,0,135000.0
-428,terreno,Estância dos Ipês,330.0,0.0,0,0,0,0,380000.0
-429,excelente,Estância dos Ipês,336.0,0.0,0,0,0,0,380000.0
-430,casa,Jardim Nenê Gomes,250.0,180.0,1,1,3,4,650000.0
-431,apartamento,Mercês,0.0,180.41,1,1,3,2,580000.0
-432,apartamento,Santa Maria,0.0,55.0,1,0,2,1,190000.0
-433,excelente,Residencial Estados Unidos,250.0,166.64,2,1,4,2,550000.0
-434,apartamento,Jardim do Lago,0.0,127.0,1,3,3,2,1350000.0
-435,apartamento,Jardim Alexandre Campos,0.0,211.3,3,3,3,2,700000.0
-436,casa,Estância dos Ipês,300.0,185.0,1,3,4,4,1600000.0
-437,terreno,Cyrela Landscape II (Residencial Vitória),433.0,0.0,0,0,0,0,324000.0
-438,terreno,Cyrela Landscape II (Residencial Vitória),591.0,0.0,0,0,0,0,443000.0
-439,terreno,Cyrela Landscape II (Residencial Vitória),787.0,0.0,0,0,0,0,590000.0
-440,terreno,Cyrela Landscape II (Residencial Vitória),459.0,0.0,0,0,0,0,344000.0
-441,terreno,Cyrela Landscape II (Residencial Vitória),617.0,0.0,0,0,0,0,463000.0
-442,terreno,Cyrela Landscape II (Residencial Vitória),642.0,0.0,0,0,0,0,481000.0
-443,terreno,Cyrela Landscape II (Residencial Vitória),540.0,0.0,0,0,0,0,405000.0
-444,casa,Jardim São Bento,336.0,250.0,2,2,3,2,890000.0
-445,apartamento,Santa Maria,0.0,180.0,1,3,3,3,1200000.0
-446,lote,Cyrela Landscape,442.0,0.0,0,0,0,0,380000.0
-447,apartamento,Jardim do Lago,0.0,200.0,1,3,3,3,2200000.0
-448,casa,Cyrela Landscape,467.04,335.05,1,4,4,4,2600000.0
-449,apartamento,Nossa Senhora da Abadia,0.0,186.0,1,1,3,2,450000.0
-450,terreno,Universitário,880.0,0.0,0,0,0,0,700000.0
-451,terreno,Santa Maria,1280.0,0.0,0,0,0,0,1500000.0
-452,apartamento,São Benedito,0.0,55.0,1,0,3,1,230000.0
-453,casa,Santa Maria,891.9,529.47,2,1,3,5,900000.0
-454,casa,Conjunto Manoel Mendes,200.0,194.0,2,2,3,0,380000.0
-455,casa,Damha Residencial Uberaba II,447.0,310.0,3,4,4,2,3500000.0
-456,apartamento,Santa Maria,0.0,210.0,1,1,3,2,1200000.0
-457,casa,Damha Residencial Uberaba II,475.28,450.0,2,4,4,2,4000000.0
-458,casa,Jardim do Lago,360.0,300.0,2,3,3,4,2000000.0
-459,casa,Oneida Mendes,200.0,68.0,1,0,2,2,270000.0
-460,apartamento,Santos Dumont,0.0,111.0,1,1,3,1,350000.0
-461,apartamento,Mercês,0.0,175.0,3,1,3,2,600000.0
-462,apartamento,Irmãos Soares,0.0,140.0,2,3,3,1,430000.0
-463,casa,Leblon,300.0,133.6,1,1,3,2,450000.0
-464,apartamento,Mercês,0.0,200.0,2,3,3,3,2000000.0
-465,casa,Residencial Presidente Tancredo Neves,265.0,69.0,1,1,3,3,470000.0
-466,terreno,Jockey Park,450.0,0.0,0,0,0,0,350000.0
-467,casa,Parque das Laranjeiras,255.0,166.15,1,3,3,6,850000.0
-468,apartamento,Nossa Senhora da Abadia,0.0,56.0,1,1,2,1,420000.0
-469,sobrado,Centro,313.1,303.01,1,1,3,1,950000.0
-470,apartamento,São Benedito,0.0,108.57,0,0,0,1,320000.0
-471,casa,Dom Eduardo,250.95,165.66,1,1,3,2,750000.0
-472,apartamento,Mercês,0.0,267.82,3,2,4,3,1100000.0
-473,casa,Vila Celeste,397.7,306.0,2,2,4,2,950000.0
-474,apartamento,Santa Maria,0.0,64.0,1,2,2,0,450000.0
-475,terreno,Parque dos Buritis II,200.0,0.0,1,1,3,0,140000.0
-476,terreno,Nossa Senhora da Abadia,874.0,0.0,0,0,0,0,900000.0
-477,apartamento,Santa Maria,0.0,81.0,1,1,3,2,500000.0
-478,casa,Conjunto Frei Eugênio,185.0,300.0,1,2,4,4,860000.0
-479,casa,Condomínio Terra Nova,143.0,125.0,2,1,3,1,495000.0
-480,apartamento,São Sebastião,0.0,308.0,1,3,3,3,800000.0
-481,casa,Damha Residencial Uberaba I,430.0,250.0,1,4,4,6,3200000.0
-482,apartamento,Santa Maria,0.0,56.0,1,1,2,1,570000.0
-483,terreno,Brahman I,250.0,0.0,0,0,0,0,250000.0
-484,apartamento,Santa Maria,0.0,162.0,2,1,3,2,700000.0
-485,casas,Cyrela Landscape II (Residencial Vitória),405.0,300.0,2,3,3,4,2500000.0
-486,terreno,Estância dos Ipês,300.0,0.0,0,0,0,0,350000.0
-487,duplex,Mercês,0.0,376.0,3,4,4,4,2500000.0
-488,terreno,Brahman I,250.0,0.0,0,0,0,0,250000.0
-489,casa,Dom Eduardo,250.0,190.0,1,3,3,4,920000.0
-490,casa,Nossa Senhora da Abadia,280.0,340.0,3,2,4,2,1200000.0
-491,terreno,Brahman I,250.0,0.0,0,0,0,0,250000.0
-492,apartamento,Jardim do Lago,0.0,50.0,1,1,2,2,350000.0
-493,terreno,Parque das Laranjeiras,548.91,0.0,0,0,0,0,440000.0
-494,lote,Estância dos Ipês,300.0,0.0,0,0,0,0,360000.0
-495,terreno,Parque das Laranjeiras II,250.0,0.0,0,0,0,0,135000.0
-496,terreno,Parque das Laranjeiras,475.0,0.0,0,0,0,0,335000.0
-497,linda,Estância dos Ipês,300.0,201.0,1,2,3,4,1400000.0
-498,casa,Jardim do Lago,360.0,315.0,3,4,4,4,1590000.0
-499,apresentamos,Damha Residencial Uberaba II,399.3,323.53,2,4,4,4,2800000.0
-500,terreno,Estância dos Ipês,300.0,0.0,0,0,0,0,360000.0
-501,terreno,Estância dos Ipês,360.0,0.0,0,0,0,0,360000.0
-502,terreno,Condomínio Ayat Club Residence II,250.0,0.0,0,0,0,0,240000.0
-503,casa,São Benedito,410.0,284.56,2,1,4,3,1050000.0
-504,casa,Jardim Induberaba,324.0,239.7,2,2,4,4,790000.0
-505,apartamento,Vila Maria Helena,0.0,100.0,2,1,3,2,490000.0
-506,lote,Estância dos Ipês,348.29,0.0,0,0,0,0,452780.0
-507,luxuosa,Damha Residencial Uberaba III,387.5,314.98,1,4,4,0,3200000.0
-508,terreno,Damha Residencial Uberaba III,415.25,0.0,0,0,0,0,420000.0
-509,terreno,Condomínio Ayat Club Residence II,250.0,0.0,0,0,0,0,230000.0
-510,terreno,Condomínio Ayat Club Residence II,250.0,0.0,0,0,0,0,260000.0
-511,terreno,Residencial Mário de Almeida Franco,1880.0,0.0,0,0,0,0,700000.0
-512,apartamento,Santa Maria,0.0,103.48,1,1,3,2,620000.0
-513,apartamento,Nossa Senhora da Abadia,0.0,89.0,1,1,2,1,370000.0
-514,casa,Parque das Laranjeiras II,300.0,152.6,1,1,2,4,480000.0
-515,apartamento,Estados Unidos,0.0,76.0,1,2,2,2,530000.0
-516,apartamento,Santa Maria,0.0,72.0,1,1,2,1,390000.0
-517,apartamento,Estados Unidos,0.0,118.0,1,3,3,2,850000.0
-518,terreno,Condomínio Ayat Club Residence II,250.0,0.0,0,0,0,0,260000.0
-519,terreno,Condomínio Ayat Club Residence II,250.0,0.0,0,0,0,0,260000.0
-520,apartamento,Vila Celeste,0.0,148.0,1,1,3,1,390000.0
-521,casa,Santa Maria,480.0,340.0,2,2,4,5,1600000.0
-522,lote,Residencial Jardins,250.0,0.0,0,0,0,0,290000.0
-523,terreno,Brahman I,250.0,0.0,0,0,0,0,230000.0
-524,casa,Estados Unidos,336.0,221.0,1,1,3,2,840000.0
-525,apartamento,Estados Unidos,0.0,70.0,1,1,2,2,430000.0
-526,casa,Residencial Mário de Almeida Franco,680.0,333.0,2,3,3,4,2600000.0
-527,apartamento,Nossa Senhora da Abadia,0.0,76.0,1,1,2,1,450000.0
-528,terreno,Damha Residencial Uberaba III,400.4,0.0,0,0,0,0,480000.0
-529,lote,Residencial Jardins,504.77,0.0,0,0,0,0,550000.0
-530,casa,Damha Residencial Uberaba I,429.0,240.0,2,3,4,4,1950000.0
-531,apartamento,Nossa Senhora da Abadia,0.0,70.0,1,1,2,1,400000.0
-532,casa,Residencial Mário de Almeida Franco,1500.0,420.0,2,4,5,4,3000000.0
-533,casa,Parque dos Buritis II,200.0,127.0,1,1,3,2,799000.0
-534,terreno,Parque das Laranjeiras,250.0,0.0,0,0,0,0,160000.0
-535,terreno,Jockey Park,1189.02,0.0,0,0,0,0,535000.0
-536,terreno,Conjunto Pontal,275.0,0.0,0,0,0,0,190000.0
-537,lote,Damha Residencial Uberaba III,394.84,0.0,0,0,0,0,450000.0
-538,terreno,Jardim Alexandre Campos,274.0,157.25,0,0,0,0,330000.0
-539,casa,Residencial Mário de Almeida Franco,960.0,220.0,2,4,4,4,1250000.0
-540,casa,Conjunto Manoel Mendes,200.0,159.35,2,2,5,2,450000.0
-541,terreno,Damha Residencial Uberaba I,481.17,0.0,0,0,0,0,750000.0
-542,terreno,Parque das Laranjeiras,250.0,0.0,0,0,0,0,140000.0
-543,casa,Portal Beija Flor,200.0,150.0,1,1,3,2,730000.0
-544,casa,Residencial Palmeiras,270.0,190.0,2,1,2,2,435000.0
-545,terreno,Parque das Laranjeiras II,250.0,0.0,0,0,0,0,160000.0
-546,terreno,Parque das Laranjeiras II,250.0,0.0,0,0,0,0,160000.0
-547,apartamento,São Benedito,0.0,128.29,2,3,3,2,1300000.0
-548,lote,Parque do Mirante,200.0,0.0,0,0,0,0,450000.0
-549,terreno,Residencial Mário de Almeida Franco,1880.0,0.0,0,0,0,0,750000.0
-550,casa,Olinda,360.0,298.0,3,2,4,4,880000.0
-551,apartamento,Fabrício,0.0,140.0,1,1,3,3,700000.0
-552,terreno,Brahman I,250.0,0.0,0,0,0,0,230000.0
-553,terreno,Brahman I,250.0,0.0,0,0,0,0,230000.0
-554,terreno,Brahman I,250.0,0.0,0,0,0,0,230000.0
-555,casa,BeijaFlor II,248.0,158.0,2,1,3,2,380000.0
-556,casa,Parque das Laranjeiras,250.0,182.0,1,1,3,1,620000.0
-557,apartamento,São Benedito,0.0,148.0,2,3,3,3,730000.0
-558,apartamento,Santa Maria,0.0,108.0,1,1,3,2,550000.0
-559,casa,Parque das Laranjeiras II,250.0,130.0,1,1,3,2,530000.0
-560,lote,Loteamento Residencial Damha Fit,280.0,0.0,0,0,0,0,260000.0
-561,apartamento,Jardim do Lago,0.0,52.0,1,1,2,1,450000.0
-562,casa,Conjunto Frei Eugênio,325.0,195.0,1,2,3,3,750000.0
-563,apartamento,Quinta Boa Esperança,0.0,45.0,1,0,2,1,275000.0
-564,terreno,Parque do Mirante,397.0,0.0,0,0,0,0,450000.0
-565,lote,Parque do Mirante,402.0,0.0,0,0,0,0,450000.0
-566,lote,Parque do Mirante,214.0,0.0,0,0,0,0,450000.0
-567,lote,Loteamento Residencial Damha Fit,280.0,0.0,0,0,0,0,285000.0
-568,lote,Olinda,360.0,0.0,0,0,0,0,270000.0
-569,terreno,Estância dos Ipês,360.0,360.0,0,0,0,0,550000.0
-570,terreno,Damha Residencial Uberaba III,387.5,0.0,0,0,0,0,400000.0
-571,lote,Damha Residencial Uberaba III,490.0,0.0,0,0,0,0,610000.0
-572,casa,Residencial Budeus,0.0,350.0,3,4,4,4,2100000.0
-573,lote,Loteamento Residencial Damha Fit,250.0,0.0,0,0,0,0,220000.0
-574,lote,Cyrela Landscape,470.0,0.0,0,0,0,0,430000.0
-575,terreno,Loteamento Residencial Damha Fit,257.5,0.0,0,0,0,0,180000.0
-576,casa,Jardim São Bento,635.39,267.98,2,3,4,3,1200000.0
-577,lote,Residencial Jardins,250.0,0.0,0,0,0,0,310000.0
+id,type,neighborhood,lot_area_m2,internal_area_m2,rooms,suites,bedrooms,parking_spaces,price_brl
+1,house,Damha Residencial Uberaba III,360.0,284.74,1,3,3,4,2950000.0
+2,house,Damha Residencial Uberaba III,362.91,281.81,1,3,3,4,2700000.0
+3,house,Residencial Mário de Almeida Franco,1880.0,778.0,2,5,7,10,5400000.0
+4,house,Damha Residencial Uberaba II,461.0,340.0,2,4,4,4,6350000.0
+5,house,Condomínio Terra Nova,143.0,140.0,1,1,3,3,580000.0
+6,house,Damha Residencial Uberaba III,409.75,263.7,1,3,4,4,2800000.0
+7,apartment,Jardim do Lago,0.0,127.0,2,3,3,2,950000.0
+8,house,Damha Residencial Uberaba I,404.0,240.0,1,3,3,4,2550000.0
+9,house,Jardim São Bento,0.0,253.7,1,2,4,4,870000.0
+10,land,Condominio Terras Alpha,321.43,0.0,0,0,0,0,320000.0
+11,land,Loteamento Residencial Damha Fit,250.0,0.0,0,0,0,0,210000.0
+12,land,Loteamento Residencial Damha Fit,250.0,0.0,0,0,0,0,210000.0
+13,house,Residencial Mário de Almeida Franco,1880.0,299.0,3,4,4,5,2850000.0
+14,house,Cyrela Landscape,407.0,200.0,2,3,3,4,1600000.0
+15,house,Condomínio Parque do Rio Grande,309.0,248.0,2,3,3,2,890000.0
+16,house,Cyrela Landscape II (Residencial Vitória),523.3,234.71,2,3,3,4,1770000.0
+17,land,Condomínio Ayat Club Residence II,250.0,0.0,0,0,0,0,250000.0
+18,land,Cyrela Landscape,396.0,0.0,0,0,0,0,340000.0
+19,apartment,Santa Maria,0.0,172.0,1,2,4,2,980000.0
+20,house,Condomínio Residencial Baronesa,720.0,300.0,3,3,3,4,3200000.0
+21,house,Condomínio Residencial Baronesa,360.0,330.0,3,4,5,6,2950000.0
+22,house,Damha Residencial Uberaba II,394.6,399.0,2,4,5,2,4000000.0
+23,land,Condominio Terras Alpha,321.43,0.0,0,0,0,0,344000.0
+24,land,Loteamento Residencial Damha Fit,250.0,0.0,0,0,0,0,225000.0
+25,apartment,Santa Maria,0.0,115.0,1,3,3,2,920000.0
+26,house,Portal Beija Flor,200.0,150.0,1,1,3,2,740000.0
+27,house,Santa Maria,445.6,335.0,4,2,4,3,1800000.0
+28,apartment,Vila Maria Helena,0.0,70.0,1,2,2,2,540000.0
+29,apartment,Irmãos Soares,0.0,148.47,3,3,3,4,750000.0
+30,apartment,Parque do Mirante,0.0,52.0,1,0,2,1,260000.0
+31,house,Estância dos Ipês,300.0,180.0,1,3,3,4,1700000.0
+32,apartment,Santa Maria,0.0,112.0,1,1,3,2,710000.0
+33,land,Damha Residencial Uberaba III,384.97,0.0,0,0,0,0,650000.0
+34,house,São Sebastião,357.0,165.85,1,1,3,2,460000.0
+35,apartment,São Sebastião,0.0,69.0,1,2,2,2,615000.0
+36,house,Jardim São Bento,461.5,278.89,1,3,3,3,1150000.0
+37,house,Estância dos Ipês,300.0,179.67,1,3,3,4,1590000.0
+38,house,Residencial Mário de Almeida Franco,545.75,335.0,1,3,4,6,2650000.0
+39,house,Jockey Park II,450.0,271.28,2,3,3,2,2200000.0
+40,apartment,Jardim do Lago,0.0,200.0,2,3,3,3,1600000.0
+41,house,Condomínio Ayat Club Residence,220.0,146.0,2,1,3,2,1250000.0
+42,apartment,Estados Unidos,0.0,76.0,1,1,2,2,490000.0
+43,house,Jardim do Lago,360.0,198.72,1,1,3,4,1300000.0
+44,house,Condomínio Ayat Club Residence,220.0,151.0,2,3,3,2,1050000.0
+45,apartment,Santa Maria,0.0,122.53,2,1,3,1,350000.0
+46,house,Estados Unidos,165.0,187.0,2,1,4,2,550000.0
+47,apartment,Estados Unidos,0.0,258.0,3,2,4,2,1390000.0
+48,house,Recanto das Torres,2481.82,485.0,3,4,4,4,4200000.0
+49,house,Olinda,360.0,248.3,1,3,3,3,700000.0
+50,house,Fabrício,400.0,238.5,1,1,3,3,1050000.0
+51,house,Damha Residencial Uberaba I,1200.0,668.0,4,4,4,8,6000000.0
+52,apartment,Santa Maria,0.0,112.0,1,1,3,2,750000.0
+53,land,Condominio Terras Alpha,348.0,0.0,0,0,0,0,360000.0
+54,apartment,Jardim do Lago,0.0,127.0,2,3,3,2,815000.0
+55,apartment,Santa Maria,0.0,228.32,2,1,3,3,1300000.0
+56,land,Residencial Mário de Almeida Franco,1880.0,0.0,0,0,0,0,700000.0
+57,apartment,Jardim Alexandre Campos,0.0,302.0,3,4,4,3,1600000.0
+58,land,Loteamento Residencial Damha Fit,250.0,0.0,0,0,0,0,200000.0
+59,land,Loteamento Residencial Damha Fit,250.0,0.0,0,0,0,0,200000.0
+60,apartment,São Sebastião,0.0,170.0,0,0,0,2,700000.0
+61,house,Cyrela Landscape II (Residencial Vitória),405.0,214.0,2,3,3,4,2100000.0
+62,house,Condomínio Residencial Baronesa,720.0,315.0,2,3,3,4,2200000.0
+63,land,Estância dos Ipês,350.0,0.0,0,0,0,0,400000.0
+64,land,Recreio dos Bandeirantes,444.0,0.0,0,0,0,0,500000.0
+65,land,Residencial Jardins,250.0,0.0,0,0,0,0,240000.0
+66,land,Damha Residencial Uberaba III,393.6,0.0,0,0,0,0,450000.0
+67,other,Damha Residencial Uberaba III,787.2,0.0,0,0,0,0,840000.0
+68,other,Damha Residencial Uberaba III,1520.0,0.0,0,0,0,0,1680000.0
+69,land,Estância dos Ipês,345.0,0.0,0,0,0,0,420000.0
+70,land,Estância dos Ipês,300.0,0.0,0,0,0,0,360000.0
+71,land,Estância dos Ipês,375.0,0.0,0,0,0,0,450000.0
+72,apartment,Estados Unidos,0.0,214.0,3,1,3,2,900000.0
+73,land,Loteamento Residencial Damha Fit,250.0,0.0,0,0,0,0,190000.0
+74,apartment,São Benedito,0.0,67.0,1,1,3,2,300000.0
+75,land,Cyrela Landscape,400.11,0.0,0,0,0,0,320000.0
+76,land,Residencial Mário de Almeida Franco,2000.0,0.0,0,0,0,0,600000.0
+77,house,Cond. Res. Lago do Jockey,500.0,380.0,1,4,4,4,2000000.0
+78,house,Damha Residencial Uberaba III,395.42,238.0,1,3,3,4,2780000.0
+79,other,Cyrela Landscape,415.46,178.57,1,3,3,4,1600000.0
+80,house,Jardim São Bento,0.0,188.0,1,1,3,2,799000.0
+81,land,Cyrela Landscape II (Residencial Vitória),452.0,0.0,0,0,0,0,320000.0
+82,land,Parque das Laranjeiras,250.0,0.0,0,0,0,0,180000.0
+83,land,Jardim Espanha,1600.0,1000.0,0,0,0,0,600000.0
+84,house,Parque das Laranjeiras,251.88,240.0,1,2,3,4,1100000.0
+85,land,Estados Unidos,260.0,0.0,0,0,0,0,180000.0
+86,land,Recreio dos Bandeirantes,390.0,0.0,0,0,0,0,480000.0
+87,land,Oneida Mendes,200.0,0.0,0,0,0,0,140000.0
+88,land,Flamboyant Residencial Park,1897.0,0.0,0,0,0,0,1100000.0
+89,house,Quinta Boa Esperança,260.0,151.55,1,1,3,3,480000.0
+90,land,Cyrela Landscape II (Residencial Vitória),405.0,0.0,0,0,0,0,295000.0
+91,house,Estância dos Ipês,360.0,350.0,2,4,4,4,2398000.0
+92,other,Damha Residencial Uberaba III,755.0,0.0,0,0,0,0,920000.0
+93,land,Damha Residencial Uberaba III,387.5,0.0,0,0,0,0,500000.0
+94,apartment,São Benedito,0.0,98.0,1,1,3,2,380000.0
+95,house,Parque das Américas,420.0,237.0,2,1,3,0,700000.0
+96,land,Mercês,630.0,0.0,0,0,0,0,350000.0
+97,land,Vila Olímpica,486.0,0.0,0,0,0,0,470000.0
+98,other,Condomínio Ayat Club Residence II,250.0,0.0,0,0,0,0,270000.0
+99,apartment,São Sebastião,0.0,138.0,1,3,3,2,1380000.0
+100,house,Vila Militar,200.0,174.24,1,1,3,2,650000.0
+101,apartment,São Benedito,0.0,145.0,1,1,3,2,533000.0
+102,apartment,São Benedito,0.0,145.0,1,1,2,2,650000.0
+103,apartment,São Benedito,0.0,145.0,1,1,3,2,553000.0
+104,apartment,São Benedito,0.0,145.0,1,1,3,2,553000.0
+105,land,Loteamento Residencial Damha Fit,264.0,0.0,0,0,0,0,175000.0
+106,land,Loteamento Residencial Damha Fit,250.0,0.0,0,0,0,0,190000.0
+107,house,Jockey Park,2550.0,428.0,3,2,4,4,3500000.0
+108,other,Condomínio Ayat Club Residence II,250.0,0.0,0,0,0,0,270000.0
+109,land,Condominio Terras Alpha,300.0,0.0,0,0,0,0,320000.0
+110,house,Fabrício,300.0,183.0,1,1,3,2,685000.0
+111,apartment,Santa Maria,0.0,107.0,1,1,3,2,750000.0
+112,house,Residencial Presidente Tancredo Neves,250.0,220.0,1,1,3,3,670000.0
+114,house,Cyrela Landscape,507.0,254.0,1,3,3,4,2200000.0
+115,apartment,Mercês,0.0,287.0,3,3,4,3,1500000.0
+116,house,Santa Maria,467.0,326.0,1,3,3,5,1580000.0
+117,apartment,Jardim Santa Inez,0.0,150.0,1,1,3,2,550000.0
+118,land,Cyrela Landscape II (Residencial Vitória),405.0,0.0,0,0,0,0,350000.0
+119,land,Residencial Jardins,388.0,0.0,0,0,0,0,390000.0
+120,land,Residencial Mário de Almeida Franco,2000.0,0.0,0,0,0,0,750000.0
+121,house,Boa Vista,269.5,177.0,0,0,0,0,600000.0
+122,apartment,Maria Helena - Vila,0.0,162.88,2,1,3,2,520000.0
+123,land,Fabrício,321.8,0.0,0,0,0,0,150000.0
+124,land,Fabrício,355.79,0.0,0,0,0,0,150000.0
+125,apartment,Olinda,0.0,85.4,1,0,2,1,360000.0
+126,land,Damha Residencial Uberaba III,408.47,0.0,0,0,0,0,550000.0
+127,house,Condomínio Ayat Club Residence,220.0,188.0,2,3,3,2,1100000.0
+128,house,Olinda,325.0,151.0,1,3,3,3,850000.0
+129,land,Loteamento Residencial Damha Fit,250.0,0.0,0,0,0,0,210000.0
+130,house,Vila Militar,200.0,255.0,2,1,3,0,750000.0
+131,house,Nossa Senhora da Abadia,135.22,173.0,1,1,2,3,530000.0
+132,house,Vila de Barcelona,360.0,277.08,1,1,3,4,1400000.0
+133,land,Fabrício,322.8,0.0,0,0,0,0,150000.0
+134,house,Boa Vista,0.0,150.0,3,1,2,1,330000.0
+135,apartment,Mercês,0.0,90.0,1,0,2,2,350000.0
+136,house,Nossa Senhora da Abadia,0.0,180.0,2,0,2,0,310000.0
+137,apartment,Vila Olímpica,0.0,169.0,2,1,3,2,630000.0
+138,apartment,Santa Marta,0.0,130.0,1,2,2,2,1000000.0
+139,apartment,Fabrício,0.0,115.0,1,3,3,2,720000.0
+140,apartment,Santa Maria,0.0,99.0,1,1,3,2,640000.0
+141,house,Jardim Nenê Gomes,250.0,173.56,1,1,3,3,650000.0
+142,house,Condomínio Ayat Club Residence,231.5,186.25,1,4,4,2,1200000.0
+143,apartment,Estados Unidos,0.0,79.07,1,0,2,1,300000.0
+144,land,Mercês,614.9,0.0,0,0,0,0,350000.0
+145,house,Jardim São Bento,320.0,248.68,2,2,4,3,850000.0
+146,land,Residencial Mário de Almeida Franco,2000.0,2000.0,0,0,0,0,680000.0
+147,house,Estância dos Ipês,394.08,214.42,1,3,3,4,2150000.0
+148,house,Jardim do Lago,0.0,100.0,1,3,0,4,1500000.0
+149,apartment,Irmãos Soares,0.0,138.0,1,3,3,2,1050000.0
+150,house,Parque das Laranjeiras,0.0,90.0,1,0,2,2,310000.0
+151,house,Damha Residencial Uberaba I,470.0,300.0,1,4,4,4,3500000.0
+152,house,Jardim do Lago,507.0,300.0,1,4,4,6,2600000.0
+153,apartment,Vila Olímpica,0.0,189.6,1,1,3,2,600000.0
+154,house,Damha Residencial Uberaba I,399.0,210.0,1,1,4,6,1600000.0
+155,land,Loteamento Residencial Damha Fit,350.0,0.0,0,0,0,0,290000.0
+156,house,Parque das Laranjeiras II,255.0,165.0,1,1,2,2,430000.0
+157,house,Cyrela Landscape,448.13,223.05,2,4,4,4,2380000.0
+158,apartment,Jardim Esplanada,0.0,52.0,1,0,2,1,270000.0
+159,house,Parque do Mirante,675.0,420.0,2,2,4,5,1300000.0
+160,house,Nossa Senhora da Abadia,940.0,540.0,3,2,4,2,1350000.0
+161,apartment,São Sebastião,0.0,310.0,4,4,4,3,1300000.0
+162,land,Vila Celeste,431.0,0.0,0,0,0,0,330000.0
+163,house,Flamboyant III Resid. Park,300.0,247.87,3,4,4,4,1950000.0
+164,land,Recreio dos Bandeirantes,250.0,0.0,0,0,0,0,240000.0
+165,land,Cyrela Landscape,428.91,0.0,0,0,0,0,375000.0
+166,land,Recreio dos Bandeirantes,392.45,0.0,0,0,0,0,550000.0
+167,land,Recreio dos Bandeirantes,378.0,0.0,0,0,0,0,500000.0
+168,land,Condomínio Ayat Club Residence II,250.0,0.0,0,0,0,0,270000.0
+169,house,Condomínio Residencial Baronesa,753.84,540.03,3,4,4,4,5000000.0
+170,house,Condomínio Buritis,0.0,430.0,3,3,4,2,2500000.0
+171,land,Vila Celeste,300.0,0.0,0,0,0,0,250000.0
+172,house,Cyrela Landscape,421.61,210.77,1,3,3,4,1850000.0
+173,land,Condomínio Ayat Club Residence II,250.0,0.0,0,0,0,0,250000.0
+174,land,Residencial Jardins,447.41,0.0,0,0,0,0,430000.0
+175,land,Cyrela Landscape,449.5,0.0,0,0,0,0,440000.0
+176,land,Cyrela Landscape,464.83,0.0,0,0,0,0,380000.0
+177,land,Flamboyant Residencial Park,396.0,0.0,0,0,0,0,780000.0
+178,house,Jardim Induberaba,164.0,234.0,1,2,3,4,470000.0
+179,house,Jardim São Bento,336.0,218.0,2,1,4,4,530000.0
+180,apartment,Estados Unidos,0.0,150.0,3,1,3,2,490000.0
+181,apartment,Irmãos Soares,0.0,125.39,1,2,3,2,550000.0
+182,house,Olinda,975.0,538.0,2,2,4,5,1850000.0
+183,house,Damha Residencial Uberaba I,390.0,219.75,3,3,3,4,1850000.0
+184,house,Conjunto Cássio Rezende,0.0,187.35,0,0,0,3,350000.0
+185,house,Cidade Jardim,300.0,310.37,3,3,5,4,750000.0
+186,apartment,Centro,0.0,178.0,1,3,3,3,1500000.0
+187,house,Recreio dos Bandeirantes,125.0,100.0,1,2,3,2,350000.0
+188,land,Damha Residencial Uberaba III,384.37,0.0,0,0,0,0,475000.0
+189,house,Santa Maria,336.0,200.0,2,2,4,2,710000.0
+190,house,Jardim do Lago,360.0,215.0,1,2,3,4,1300000.0
+191,house,Parque das Laranjeiras II,250.0,110.0,1,1,2,4,450000.0
+192,apartment,Santa Maria,0.0,78.0,1,1,3,2,430000.0
+193,apartment,Estados Unidos,0.0,55.13,1,0,2,1,250000.0
+194,house,Recreio dos Bandeirantes,125.0,70.0,1,0,3,2,300000.0
+195,apartment,Santa Maria,0.0,90.0,1,1,3,2,480000.0
+196,house,Damha Residencial Uberaba I,414.97,218.0,1,3,4,4,2700000.0
+197,house,Flamboyant II Resid. Park,396.0,191.0,1,2,3,4,1850000.0
+198,apartment,São Sebastião,0.0,69.0,1,2,2,2,580000.0
+199,house,Jardim Nenê Gomes,250.0,91.29,1,1,2,4,360000.0
+200,apartment,Fabrício,0.0,54.0,1,2,2,1,265000.0
+201,house,Boa Vista,534.0,271.05,3,4,5,4,1850000.0
+202,house,Mercês,197.0,92.0,1,1,3,2,460000.0
+203,house,Condomínio Ayat Club Residence,231.83,160.0,1,4,5,2,980000.0
+204,house,Damha Residencial Uberaba I,421.0,210.0,1,3,3,4,3200000.0
+205,house,Mercês,460.6,297.23,3,4,4,4,950000.0
+206,land,Damha Residencial Uberaba III,390.0,0.0,0,0,0,0,460000.0
+207,land,Cyrela Landscape,409.0,0.0,0,0,0,0,390000.0
+208,house,Damha Residencial Uberaba II,438.75,260.31,1,3,3,4,1950000.0
+209,house,Cyrela Landscape,528.41,554.57,2,6,6,4,2750000.0
+210,house,Mercês,516.0,419.58,2,2,5,4,1800000.0
+211,house,Estância dos Ipês,328.0,200.0,1,1,3,4,1600000.0
+212,land,Residencial Jardins,250.0,0.0,0,0,0,0,290000.0
+213,land,Parque das Laranjeiras,250.0,0.0,0,0,0,0,135000.0
+214,apartment,Santa Maria,0.0,60.0,1,1,2,1,300000.0
+215,house,Boa Vista,462.5,342.0,2,1,3,2,1100000.0
+216,house,Cyrela Landscape,410.0,330.0,2,4,4,4,2600000.0
+217,house,Cyrela Landscape,406.0,212.0,1,3,3,4,1950000.0
+218,land,Parque do Mirante,892.8,0.0,0,0,0,0,600000.0
+219,house,Damha Residencial Uberaba III,384.37,327.0,2,5,5,4,3490000.0
+220,apartment,Nossa Senhora da Abadia,0.0,55.0,0,0,0,0,330000.0
+221,house,Mercês,0.0,195.07,2,1,3,2,750000.0
+222,house,Portal Beija Flor,200.0,136.0,1,1,3,2,600000.0
+223,house,Condomínio Ayat Club Residence,231.5,186.25,0,3,3,2,1130000.0
+224,apartment,Santa Maria,0.0,74.0,1,2,2,1,490000.0
+225,house,São Sebastião,0.0,500.0,3,2,5,4,3000000.0
+226,apartment,São Sebastião,0.0,69.0,2,2,2,2,470000.0
+227,house,Damha Residencial Uberaba III,387.54,215.52,1,4,4,4,2450000.0
+228,land,Condomínio Ayat Club Residence II,250.0,0.0,0,0,0,0,235000.0
+229,apartment,Olinda,0.0,59.0,1,0,2,1,330000.0
+230,apartment,São Benedito,0.0,158.0,1,1,3,2,700000.0
+231,land,Cyrela Landscape II (Residencial Vitória),405.0,0.0,0,0,0,0,240000.0
+232,house,Jardim do Lago,360.0,344.0,2,3,4,4,1350000.0
+233,land,Residencial Jardins,250.0,0.0,0,0,0,0,305000.0
+234,land,Brahman I,250.0,0.0,0,0,0,0,210000.0
+235,land,Brahman I,250.0,0.0,0,0,0,0,210000.0
+236,land,Brahman I,250.0,0.0,0,0,0,0,210000.0
+237,land,Fabrício,420.0,0.0,0,0,0,0,700000.0
+238,land,CONDOMÍNIO CHÁCARA DAS PALMEIRAS,1800.0,0.0,0,0,0,0,790000.0
+239,house,Vale do Sol,0.0,420.0,3,2,2,10,3000000.0
+240,land,Residencial Jardins,250.0,0.0,0,0,0,0,262500.0
+241,land,Residencial Jardins,259.1,0.0,0,0,0,0,271950.0
+242,land,Jardim São Bento,336.0,0.0,0,0,0,0,225000.0
+243,apartment,Santa Maria,0.0,56.0,1,1,2,1,570000.0
+244,house,Estância dos Ipês,300.0,180.0,1,3,3,2,1600000.0
+245,house,Parque das Américas,360.0,178.42,1,1,3,2,550000.0
+246,house,Jardim do Lago,360.0,175.0,2,1,3,2,830000.0
+247,apartment,Olinda,0.0,93.0,1,1,3,1,350000.0
+248,house,Residencial Palmeiras,315.82,280.0,1,3,4,3,900000.0
+249,house,Condomínio Ayat Club Residence II,250.0,180.0,1,3,3,2,1500000.0
+250,house,Estância dos Ipês,300.0,180.0,2,3,3,2,1700000.0
+251,other,Damha Residencial Uberaba III,369.96,215.0,1,3,4,4,2300000.0
+252,house,Jardim Nenê Gomes,250.0,180.0,1,1,3,2,690000.0
+253,land,Residencial Mário de Almeida Franco,544.49,0.0,0,0,0,0,410000.0
+254,apartment,Santa Maria,0.0,54.6,1,1,2,1,330000.0
+255,apartment,São Benedito,0.0,129.0,0,0,0,0,995000.0
+256,house,Jardim São Bento,0.0,198.78,2,2,4,2,680000.0
+257,land,Damha Residencial Uberaba III,390.7,0.0,0,0,0,0,400000.0
+258,house,Jardim Maria Alice,272.0,189.9,1,1,2,2,500000.0
+259,house,Residencial Estados Unidos,250.0,183.0,1,3,3,2,650000.0
+260,house,Estados Unidos,0.0,281.82,0,0,0,0,660000.0
+261,house,Cyrela Landscape,482.5,298.0,2,3,4,4,2400000.0
+262,house,Recreio dos Bandeirantes,126.5,74.63,1,0,3,1,260000.0
+263,land,Condominio Terras Alpha,300.0,0.0,0,0,0,0,300000.0
+264,house,Conjunto Cássio Rezende,0.0,149.47,0,2,4,2,495000.0
+265,house,Jardim do Lago,0.0,193.0,1,1,3,3,1600000.0
+266,apartment,Estados Unidos,0.0,59.77,1,1,2,1,330000.0
+267,land,Condominio Terras Alpha,300.0,0.0,0,0,0,0,292500.0
+268,apartment,Vila Maria Helena,0.0,100.0,1,1,3,0,380000.0
+269,apartment,São Sebastião,0.0,69.0,1,2,2,2,500000.0
+270,apartment,Nossa Senhora da Abadia,0.0,110.0,1,1,3,2,480000.0
+271,house,Jardim Espírito Santo,250.0,158.0,1,3,3,3,750000.0
+272,house,Condomínio Terra Nova,0.0,126.0,1,1,3,2,540000.0
+273,house,Residencial Mário de Almeida Franco,1121.47,630.0,4,5,5,10,2300000.0
+274,land,Parque das Laranjeiras,250.0,0.0,0,0,0,0,120000.0
+275,house,Olinda,325.0,120.0,2,2,3,4,900000.0
+276,land,Cyrela Landscape,494.96,0.0,0,0,0,0,338000.0
+277,house,Grande Horizonte,324.0,171.28,2,1,3,4,550000.0
+278,land,Brahman I,250.0,0.0,0,0,0,0,200000.0
+279,land,Brahman I,250.0,0.0,0,0,0,0,200000.0
+280,land,Parque das Laranjeiras,251.88,0.0,0,0,0,0,200000.0
+281,land,Parque das Laranjeiras,255.0,0.0,0,0,0,0,170000.0
+282,land,Cyrela Landscape,438.3,0.0,0,0,0,0,440000.0
+283,land,Cyrela Landscape,405.0,0.0,0,0,0,0,330000.0
+284,land,Cyrela Landscape II (Residencial Vitória),415.46,0.0,0,0,0,0,290000.0
+285,land,Damha Residencial Uberaba III,442.56,0.0,0,0,0,0,590000.0
+286,land,Loteamento Residencial Damha Fit,289.0,0.0,0,0,0,0,200000.0
+287,land,Brahman I,250.0,0.0,0,0,0,0,190000.0
+288,apartment,Nossa Senhora da Abadia,0.0,37.0,1,0,1,0,220000.0
+289,land,Residencial Mário de Almeida Franco,2000.0,0.0,0,0,0,0,650000.0
+290,land,Residencial Mário de Almeida Franco,600.0,0.0,0,0,0,0,450000.0
+291,land,Residencial Mário de Almeida Franco,2000.0,0.0,0,0,0,0,650000.0
+292,apartment,Mercês,0.01,212.0,2,4,4,2,680000.0
+293,house,Parque do Mirante,675.0,420.0,2,2,4,5,650000.0
+294,house,Recreio dos Bandeirantes,0.0,140.0,1,0,3,0,290000.0
+295,house,Parque das Laranjeiras,275.0,140.0,1,1,3,4,650000.0
+296,other,Conjunto Morada do Sol,0.0,253.0,1,1,2,2,550000.0
+297,land,Loteamento Residencial Damha Fit,250.0,0.0,0,0,0,0,190000.0
+298,house,Cyrela Landscape,525.0,240.0,3,2,3,0,1750000.0
+299,house,São Sebastião,403.0,312.0,3,2,4,3,1000000.0
+300,land,Parque das Laranjeiras,250.0,0.0,0,0,0,0,140000.0
+301,apartment,Santa Maria,0.0,112.76,1,3,3,2,750000.0
+302,apartment,Parque das Acácias,0.0,56.0,1,1,2,1,275000.0
+303,apartment,Santa Maria,0.0,99.0,1,1,3,2,640000.0
+304,land,Damha Residencial Uberaba III,394.45,0.0,0,0,0,0,550000.0
+305,apartment,Parque do Mirante,0.0,48.0,1,0,2,1,240000.0
+306,house,Jardim Espírito Santo,250.0,160.0,1,2,3,3,780000.0
+307,apartment,Conjunto Manoel Mendes,0.0,58.49,0,0,2,1,190000.0
+308,apartment,Nossa Senhora da Abadia,0.0,53.8,0,0,0,0,280000.0
+309,house,Damha Residencial Uberaba III,394.75,237.0,2,3,3,4,2300000.0
+310,house,Damha Residencial Uberaba I,414.64,221.01,1,2,4,4,1800000.0
+311,apartment,Olinda,0.0,87.45,0,0,0,0,415000.0
+312,apartment,Estados Unidos,0.0,102.09,1,1,3,2,820000.0
+313,house,Damha Residencial Uberaba III,387.0,210.0,1,3,3,4,2200000.0
+314,house,Damha Residencial Uberaba III,384.97,214.04,1,4,4,4,2530000.0
+315,land,Damha Residencial Uberaba III,384.37,0.0,0,0,0,0,450000.0
+316,land,Damha Residencial Uberaba III,409.75,0.0,0,0,0,0,400000.0
+317,land,Residencial Mário de Almeida Franco,2231.0,0.0,0,0,0,0,850000.0
+318,house,Condomínio Ayat Club Residence,250.0,210.0,1,4,4,2,1480000.0
+319,house,Parque das Laranjeiras,260.0,120.0,1,1,3,2,550000.0
+320,land,Residencial Jardins,365.7,0.0,0,0,0,0,385000.0
+321,apartment,São Benedito,0.0,103.43,1,1,3,2,440000.0
+322,house,Estância dos Ipês,376.66,225.55,3,3,3,2,2200000.0
+323,land,Vila Maria Helena,237.0,0.0,0,0,0,0,360000.0
+324,land,Damha Residencial Uberaba III,387.5,0.0,0,0,0,0,430000.0
+325,apartment,Mercês,0.0,126.34,2,1,3,2,550000.0
+326,land,Conjunto Pontal,275.0,0.0,0,0,0,0,170000.0
+327,house,Parque das Laranjeiras,250.0,95.25,1,1,3,4,680000.0
+328,house,Residencial Mário de Almeida Franco,0.0,250.0,2,3,3,4,2000000.0
+329,land,Cyrela Landscape,428.14,428.14,0,0,0,0,430000.0
+330,land,Jockey Park,1705.0,0.0,0,0,0,0,750000.0
+331,apartment,Olinda,0.0,77.0,2,1,3,1,280000.0
+332,land,Cyrela Landscape,428.14,0.0,0,0,0,0,380000.0
+333,house,São José,0.0,203.34,1,2,3,2,1100000.0
+334,house,Leblon,300.0,180.0,1,1,3,2,570000.0
+335,apartment,Mercês,0.0,198.0,4,1,3,2,670000.0
+336,house,Olinda,312.0,322.25,3,1,3,4,1300000.0
+337,house,Jardim São Bento,336.0,292.0,1,4,4,4,1350000.0
+338,land,Estância dos Ipês,300.0,0.0,0,0,0,0,360000.0
+339,land,Cyrela Landscape II (Residencial Vitória),442.0,0.0,0,0,0,0,290000.0
+340,apartment,Conjunto Guanabara,0.0,117.0,1,1,2,2,730000.0
+341,land,Loteamento Residencial Damha Fit,289.0,0.0,0,0,0,0,225000.0
+342,land,Loteamento Residencial Damha Fit,250.0,0.0,0,0,0,0,210000.0
+343,house,Parque das Laranjeiras,0.0,150.0,0,2,2,6,750000.0
+344,house,Pacaembu,200.0,140.0,1,2,3,2,430000.0
+345,house,Residencial Presidente Tancredo Neves,248.0,54.0,2,0,2,4,315000.0
+346,house,Damha Residencial Uberaba II,395.85,319.0,3,4,4,4,3350000.0
+347,house,Olinda,624.0,428.0,3,3,3,4,1300000.0
+348,house,Residencial Filinha Mendes,200.0,120.0,1,1,3,3,455000.0
+349,land,Estância dos Ipês,388.77,0.0,0,0,0,0,505500.0
+350,land,Estância dos Ipês,300.0,0.0,0,0,0,0,330000.0
+351,land,Condomínio Ayat Club Residence II,250.0,0.0,0,0,0,0,250000.0
+352,house,Vila Frei Eugênio,300.0,205.0,2,1,3,2,950000.0
+353,apartment,Olinda,0.0,85.0,1,1,3,1,260000.0
+354,land,Oneida Mendes,570.0,0.0,0,0,0,0,840000.0
+355,house,Estância dos Ipês,360.0,215.8,1,3,3,4,2000000.0
+356,apartment,Jardim do Lago,0.0,116.0,1,3,3,2,950000.0
+357,house,Jardim Espanha,200.0,72.0,1,0,2,2,270000.0
+358,apartment,Parque do Mirante,0.0,100.64,1,1,3,2,990000.0
+359,house,Jardim Espanha,200.0,121.01,1,0,3,3,320000.0
+360,apartment,Parque do Mirante,0.0,100.64,1,1,3,2,980000.0
+361,other,Parque do Mirante,0.0,100.64,1,3,3,2,1010000.0
+362,apartment,Parque do Mirante,0.0,100.64,1,2,2,2,1030000.0
+363,apartment,Parque do Mirante,0.0,100.64,1,1,3,2,940000.0
+364,apartment,Parque do Mirante,0.0,50.0,1,0,2,1,240000.0
+365,land,Loteamento Residencial Damha Fit,250.0,0.0,0,0,0,0,220000.0
+366,house,Damha Residencial Uberaba II,475.54,258.65,1,4,4,4,2250000.0
+367,land,Loteamento Residencial Damha Fit,250.0,0.0,0,0,0,0,210000.0
+368,other,Jardim do Lago,0.0,102.0,1,3,3,0,850000.0
+369,land,Vila Celeste,1092.28,0.0,0,0,0,0,650000.0
+370,land,Condomínio Ayat Club Residence II,250.0,0.0,0,0,0,0,215000.0
+371,apartment,Parque do Mirante,0.0,100.64,1,1,3,2,980000.0
+372,house,Parque das Laranjeiras II,250.0,123.99,2,1,3,6,645000.0
+373,other,Mercês,460.45,436.97,3,1,3,2,980000.0
+374,apartment,Parque do Mirante,1797.47,97.99,1,1,3,2,590000.0
+375,house,Olinda,312.0,218.4,2,1,4,5,550000.0
+376,apartment,Olinda,0.0,77.0,2,1,2,1,199000.0
+377,apartment,Santa Maria,960.0,80.0,1,1,2,2,330000.0
+378,house,Nossa Senhora da Abadia,250.0,167.0,1,2,3,4,570000.0
+379,land,Cyrela Landscape,422.0,0.0,0,0,0,0,350000.0
+380,house,Cyrela Landscape,396.75,278.72,1,1,3,4,2250000.0
+381,house,Nossa Senhora da Abadia,531.3,403.01,3,1,4,3,950000.0
+382,house,Mercês,0.0,110.0,1,1,3,2,680000.0
+383,house,Fabrício,264.0,160.05,1,2,3,2,820000.0
+384,apartment,Mercês,0.0,156.0,2,3,3,2,1200000.0
+385,house,Estância dos Ipês,491.0,258.0,1,3,3,4,2350000.0
+386,land,Parque das Laranjeiras,250.0,0.0,0,0,0,0,140000.0
+387,house,Conjunto Morada do Sol,432.0,221.0,3,2,3,2,700000.0
+388,land,Espanha,998.43,0.0,0,0,0,0,750000.0
+389,land,Loteamento Lótus,370.0,0.0,0,0,0,0,400000.0
+390,land,Loteamento Residencial Damha Fit,250.0,0.0,0,0,0,0,180000.0
+391,land,Loteamento Residencial Damha Fit,250.0,0.0,0,0,0,0,210000.0
+392,land,Cyrela Landscape,396.75,0.0,0,0,0,0,380000.0
+393,apartment,Fabrício,0.0,78.0,1,1,3,1,370000.0
+394,land,Cyrela Landscape II (Residencial Vitória),434.0,0.0,0,0,0,0,325380.0
+395,land,Cyrela Landscape II (Residencial Vitória),750.0,0.0,0,0,0,0,562000.0
+396,house,Mercês,538.0,300.0,2,1,4,4,850000.0
+397,apartment,Parque do Mirante,0.0,100.64,2,1,3,2,930000.0
+398,house,Parque do Mirante,675.0,525.0,2,2,4,8,2500000.0
+399,house,Estância dos Ipês,600.0,495.0,2,4,4,4,3900000.0
+400,house,Nossa Senhora da Abadia,270.0,260.0,3,3,5,5,700000.0
+401,apartment,Mercês,0.0,200.0,2,1,3,2,800000.0
+402,house,Mercês,900.0,700.0,3,3,4,6,3950000.0
+403,house,Residencial Mário de Almeida Franco,486.54,280.0,2,4,4,4,2200000.0
+404,apartment,Santa Maria,0.0,263.21,2,3,3,2,1350000.0
+405,house,Estados Unidos,1093.5,528.78,3,4,5,2,nan
+406,apartment,Fabrício,0.0,78.0,1,1,3,1,320000.0
+407,house,Vila Olímpica,300.0,182.0,2,1,3,3,850000.0
+408,house,Residencial Mário de Almeida Franco,682.0,250.0,1,3,3,5,1700000.0
+409,apartment,Quinta Boa Esperança,0.0,72.0,1,1,2,2,410000.0
+410,house,Nossa Senhora da Abadia,460.0,190.0,2,2,4,2,1000000.0
+411,house,Quinta Boa Esperança,320.0,312.0,3,2,3,4,1100000.0
+412,land,Cidade Jardim,280.0,0.0,0,0,0,0,225000.0
+413,land,Recreio dos Bandeirantes,888.0,0.0,0,0,0,0,2100000.0
+414,land,Recreio dos Bandeirantes,458.0,0.0,0,0,0,0,900000.0
+415,house,Olinda,324.0,250.0,2,3,3,2,850000.0
+416,land,Cyrela Landscape,482.2,0.0,0,0,0,0,450000.0
+417,house,Nossa Senhora da Abadia,400.0,300.69,2,2,4,4,850000.0
+418,house,Jardim do Lago,360.0,277.0,1,4,4,4,1500000.0
+419,house,Boa Vista,400.0,260.0,2,2,3,3,1000000.0
+420,house,Parque das Laranjeiras,276.93,150.0,1,1,3,3,640000.0
+421,apartment,Irmãos Soares,0.0,112.0,2,1,3,1,290000.0
+422,land,Damha Residencial Uberaba III,420.32,0.0,0,0,0,0,620000.0
+423,land,Loteamento Residencial Damha Fit,250.0,0.0,0,0,0,1,200000.0
+424,apartment,Mercês,0.0,156.0,2,3,3,2,1200000.0
+425,apartment,Estados Unidos,0.0,100.0,1,1,3,2,480000.0
+426,house,Parque das Laranjeiras,255.0,252.0,1,3,3,2,650000.0
+427,land,Parque das Laranjeiras,250.0,0.0,0,0,0,0,135000.0
+428,land,Estância dos Ipês,330.0,0.0,0,0,0,0,380000.0
+429,other,Estância dos Ipês,336.0,0.0,0,0,0,0,380000.0
+430,house,Jardim Nenê Gomes,250.0,180.0,1,1,3,4,650000.0
+431,apartment,Mercês,0.0,180.41,1,1,3,2,580000.0
+432,apartment,Santa Maria,0.0,55.0,1,0,2,1,190000.0
+433,other,Residencial Estados Unidos,250.0,166.64,2,1,4,2,550000.0
+434,apartment,Jardim do Lago,0.0,127.0,1,3,3,2,1350000.0
+435,apartment,Jardim Alexandre Campos,0.0,211.3,3,3,3,2,700000.0
+436,house,Estância dos Ipês,300.0,185.0,1,3,4,4,1600000.0
+437,land,Cyrela Landscape II (Residencial Vitória),433.0,0.0,0,0,0,0,324000.0
+438,land,Cyrela Landscape II (Residencial Vitória),591.0,0.0,0,0,0,0,443000.0
+439,land,Cyrela Landscape II (Residencial Vitória),787.0,0.0,0,0,0,0,590000.0
+440,land,Cyrela Landscape II (Residencial Vitória),459.0,0.0,0,0,0,0,344000.0
+441,land,Cyrela Landscape II (Residencial Vitória),617.0,0.0,0,0,0,0,463000.0
+442,land,Cyrela Landscape II (Residencial Vitória),642.0,0.0,0,0,0,0,481000.0
+443,land,Cyrela Landscape II (Residencial Vitória),540.0,0.0,0,0,0,0,405000.0
+444,house,Jardim São Bento,336.0,250.0,2,2,3,2,890000.0
+445,apartment,Santa Maria,0.0,180.0,1,3,3,3,1200000.0
+446,land,Cyrela Landscape,442.0,0.0,0,0,0,0,380000.0
+447,apartment,Jardim do Lago,0.0,200.0,1,3,3,3,2200000.0
+448,house,Cyrela Landscape,467.04,335.05,1,4,4,4,2600000.0
+449,apartment,Nossa Senhora da Abadia,0.0,186.0,1,1,3,2,450000.0
+450,land,Universitário,880.0,0.0,0,0,0,0,700000.0
+451,land,Santa Maria,1280.0,0.0,0,0,0,0,1500000.0
+452,apartment,São Benedito,0.0,55.0,1,0,3,1,230000.0
+453,house,Santa Maria,891.9,529.47,2,1,3,5,900000.0
+454,house,Conjunto Manoel Mendes,200.0,194.0,2,2,3,0,380000.0
+455,house,Damha Residencial Uberaba II,447.0,310.0,3,4,4,2,3500000.0
+456,apartment,Santa Maria,0.0,210.0,1,1,3,2,1200000.0
+457,house,Damha Residencial Uberaba II,475.28,450.0,2,4,4,2,4000000.0
+458,house,Jardim do Lago,360.0,300.0,2,3,3,4,2000000.0
+459,house,Oneida Mendes,200.0,68.0,1,0,2,2,270000.0
+460,apartment,Santos Dumont,0.0,111.0,1,1,3,1,350000.0
+461,apartment,Mercês,0.0,175.0,3,1,3,2,600000.0
+462,apartment,Irmãos Soares,0.0,140.0,2,3,3,1,430000.0
+463,house,Leblon,300.0,133.6,1,1,3,2,450000.0
+464,apartment,Mercês,0.0,200.0,2,3,3,3,2000000.0
+465,house,Residencial Presidente Tancredo Neves,265.0,69.0,1,1,3,3,470000.0
+466,land,Jockey Park,450.0,0.0,0,0,0,0,350000.0
+467,house,Parque das Laranjeiras,255.0,166.15,1,3,3,6,850000.0
+468,apartment,Nossa Senhora da Abadia,0.0,56.0,1,1,2,1,420000.0
+469,house,Centro,313.1,303.01,1,1,3,1,950000.0
+470,apartment,São Benedito,0.0,108.57,0,0,0,1,320000.0
+471,house,Dom Eduardo,250.95,165.66,1,1,3,2,750000.0
+472,apartment,Mercês,0.0,267.82,3,2,4,3,1100000.0
+473,house,Vila Celeste,397.7,306.0,2,2,4,2,950000.0
+474,apartment,Santa Maria,0.0,64.0,1,2,2,0,450000.0
+475,land,Parque dos Buritis II,200.0,0.0,1,1,3,0,140000.0
+476,land,Nossa Senhora da Abadia,874.0,0.0,0,0,0,0,900000.0
+477,apartment,Santa Maria,0.0,81.0,1,1,3,2,500000.0
+478,house,Conjunto Frei Eugênio,185.0,300.0,1,2,4,4,860000.0
+479,house,Condomínio Terra Nova,143.0,125.0,2,1,3,1,495000.0
+480,apartment,São Sebastião,0.0,308.0,1,3,3,3,800000.0
+481,house,Damha Residencial Uberaba I,430.0,250.0,1,4,4,6,3200000.0
+482,apartment,Santa Maria,0.0,56.0,1,1,2,1,570000.0
+483,land,Brahman I,250.0,0.0,0,0,0,0,250000.0
+484,apartment,Santa Maria,0.0,162.0,2,1,3,2,700000.0
+485,house,Cyrela Landscape II (Residencial Vitória),405.0,300.0,2,3,3,4,2500000.0
+486,land,Estância dos Ipês,300.0,0.0,0,0,0,0,350000.0
+487,apartment,Mercês,0.0,376.0,3,4,4,4,2500000.0
+488,land,Brahman I,250.0,0.0,0,0,0,0,250000.0
+489,house,Dom Eduardo,250.0,190.0,1,3,3,4,920000.0
+490,house,Nossa Senhora da Abadia,280.0,340.0,3,2,4,2,1200000.0
+491,land,Brahman I,250.0,0.0,0,0,0,0,250000.0
+492,apartment,Jardim do Lago,0.0,50.0,1,1,2,2,350000.0
+493,land,Parque das Laranjeiras,548.91,0.0,0,0,0,0,440000.0
+494,land,Estância dos Ipês,300.0,0.0,0,0,0,0,360000.0
+495,land,Parque das Laranjeiras II,250.0,0.0,0,0,0,0,135000.0
+496,land,Parque das Laranjeiras,475.0,0.0,0,0,0,0,335000.0
+497,other,Estância dos Ipês,300.0,201.0,1,2,3,4,1400000.0
+498,house,Jardim do Lago,360.0,315.0,3,4,4,4,1590000.0
+499,other,Damha Residencial Uberaba II,399.3,323.53,2,4,4,4,2800000.0
+500,land,Estância dos Ipês,300.0,0.0,0,0,0,0,360000.0
+501,land,Estância dos Ipês,360.0,0.0,0,0,0,0,360000.0
+502,land,Condomínio Ayat Club Residence II,250.0,0.0,0,0,0,0,240000.0
+503,house,São Benedito,410.0,284.56,2,1,4,3,1050000.0
+504,house,Jardim Induberaba,324.0,239.7,2,2,4,4,790000.0
+505,apartment,Vila Maria Helena,0.0,100.0,2,1,3,2,490000.0
+506,land,Estância dos Ipês,348.29,0.0,0,0,0,0,452780.0
+507,other,Damha Residencial Uberaba III,387.5,314.98,1,4,4,0,3200000.0
+508,land,Damha Residencial Uberaba III,415.25,0.0,0,0,0,0,420000.0
+509,land,Condomínio Ayat Club Residence II,250.0,0.0,0,0,0,0,230000.0
+510,land,Condomínio Ayat Club Residence II,250.0,0.0,0,0,0,0,260000.0
+511,land,Residencial Mário de Almeida Franco,1880.0,0.0,0,0,0,0,700000.0
+512,apartment,Santa Maria,0.0,103.48,1,1,3,2,620000.0
+513,apartment,Nossa Senhora da Abadia,0.0,89.0,1,1,2,1,370000.0
+514,house,Parque das Laranjeiras II,300.0,152.6,1,1,2,4,480000.0
+515,apartment,Estados Unidos,0.0,76.0,1,2,2,2,530000.0
+516,apartment,Santa Maria,0.0,72.0,1,1,2,1,390000.0
+517,apartment,Estados Unidos,0.0,118.0,1,3,3,2,850000.0
+518,land,Condomínio Ayat Club Residence II,250.0,0.0,0,0,0,0,260000.0
+519,land,Condomínio Ayat Club Residence II,250.0,0.0,0,0,0,0,260000.0
+520,apartment,Vila Celeste,0.0,148.0,1,1,3,1,390000.0
+521,house,Santa Maria,480.0,340.0,2,2,4,5,1600000.0
+522,land,Residencial Jardins,250.0,0.0,0,0,0,0,290000.0
+523,land,Brahman I,250.0,0.0,0,0,0,0,230000.0
+524,house,Estados Unidos,336.0,221.0,1,1,3,2,840000.0
+525,apartment,Estados Unidos,0.0,70.0,1,1,2,2,430000.0
+526,house,Residencial Mário de Almeida Franco,680.0,333.0,2,3,3,4,2600000.0
+527,apartment,Nossa Senhora da Abadia,0.0,76.0,1,1,2,1,450000.0
+528,land,Damha Residencial Uberaba III,400.4,0.0,0,0,0,0,480000.0
+529,land,Residencial Jardins,504.77,0.0,0,0,0,0,550000.0
+530,house,Damha Residencial Uberaba I,429.0,240.0,2,3,4,4,1950000.0
+531,apartment,Nossa Senhora da Abadia,0.0,70.0,1,1,2,1,400000.0
+532,house,Residencial Mário de Almeida Franco,1500.0,420.0,2,4,5,4,3000000.0
+533,house,Parque dos Buritis II,200.0,127.0,1,1,3,2,799000.0
+534,land,Parque das Laranjeiras,250.0,0.0,0,0,0,0,160000.0
+535,land,Jockey Park,1189.02,0.0,0,0,0,0,535000.0
+536,land,Conjunto Pontal,275.0,0.0,0,0,0,0,190000.0
+537,land,Damha Residencial Uberaba III,394.84,0.0,0,0,0,0,450000.0
+538,land,Jardim Alexandre Campos,274.0,157.25,0,0,0,0,330000.0
+539,house,Residencial Mário de Almeida Franco,960.0,220.0,2,4,4,4,1250000.0
+540,house,Conjunto Manoel Mendes,200.0,159.35,2,2,5,2,450000.0
+541,land,Damha Residencial Uberaba I,481.17,0.0,0,0,0,0,750000.0
+542,land,Parque das Laranjeiras,250.0,0.0,0,0,0,0,140000.0
+543,house,Portal Beija Flor,200.0,150.0,1,1,3,2,730000.0
+544,house,Residencial Palmeiras,270.0,190.0,2,1,2,2,435000.0
+545,land,Parque das Laranjeiras II,250.0,0.0,0,0,0,0,160000.0
+546,land,Parque das Laranjeiras II,250.0,0.0,0,0,0,0,160000.0
+547,apartment,São Benedito,0.0,128.29,2,3,3,2,1300000.0
+548,land,Parque do Mirante,200.0,0.0,0,0,0,0,450000.0
+549,land,Residencial Mário de Almeida Franco,1880.0,0.0,0,0,0,0,750000.0
+550,house,Olinda,360.0,298.0,3,2,4,4,880000.0
+551,apartment,Fabrício,0.0,140.0,1,1,3,3,700000.0
+552,land,Brahman I,250.0,0.0,0,0,0,0,230000.0
+553,land,Brahman I,250.0,0.0,0,0,0,0,230000.0
+554,land,Brahman I,250.0,0.0,0,0,0,0,230000.0
+555,house,BeijaFlor II,248.0,158.0,2,1,3,2,380000.0
+556,house,Parque das Laranjeiras,250.0,182.0,1,1,3,1,620000.0
+557,apartment,São Benedito,0.0,148.0,2,3,3,3,730000.0
+558,apartment,Santa Maria,0.0,108.0,1,1,3,2,550000.0
+559,house,Parque das Laranjeiras II,250.0,130.0,1,1,3,2,530000.0
+560,land,Loteamento Residencial Damha Fit,280.0,0.0,0,0,0,0,260000.0
+561,apartment,Jardim do Lago,0.0,52.0,1,1,2,1,450000.0
+562,house,Conjunto Frei Eugênio,325.0,195.0,1,2,3,3,750000.0
+563,apartment,Quinta Boa Esperança,0.0,45.0,1,0,2,1,275000.0
+564,land,Parque do Mirante,397.0,0.0,0,0,0,0,450000.0
+565,land,Parque do Mirante,402.0,0.0,0,0,0,0,450000.0
+566,land,Parque do Mirante,214.0,0.0,0,0,0,0,450000.0
+567,land,Loteamento Residencial Damha Fit,280.0,0.0,0,0,0,0,285000.0
+568,land,Olinda,360.0,0.0,0,0,0,0,270000.0
+569,land,Estância dos Ipês,360.0,360.0,0,0,0,0,550000.0
+570,land,Damha Residencial Uberaba III,387.5,0.0,0,0,0,0,400000.0
+571,land,Damha Residencial Uberaba III,490.0,0.0,0,0,0,0,610000.0
+572,house,Residencial Budeus,0.0,350.0,3,4,4,4,2100000.0
+573,land,Loteamento Residencial Damha Fit,250.0,0.0,0,0,0,0,220000.0
+574,land,Cyrela Landscape,470.0,0.0,0,0,0,0,430000.0
+575,land,Loteamento Residencial Damha Fit,257.5,0.0,0,0,0,0,180000.0
+576,house,Jardim São Bento,635.39,267.98,2,3,4,3,1200000.0
+577,land,Residencial Jardins,250.0,0.0,0,0,0,0,310000.0
